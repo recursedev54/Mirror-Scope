@@ -1,4 +1,4 @@
-#MirrorDAWg
-####Mirror
+# MirrorDAWg
+#### Mirror
 
-######!~The Daw!
+###### !~The Daw!
