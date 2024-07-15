@@ -1,7 +1,7 @@
 # MirrorDAWg
 #### Mirror
 
-###### !~The Daw!
+###### `~The Daw!
 - # Ai enhanced
   - Who are the Ai in the daw?
     - Dawbreii
