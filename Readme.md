@@ -30,7 +30,9 @@
   - Brand new music notation system called DEF notation, inspired by ABC notation but 1-1 compatable with midi, meaning every midi clip in the daw can be 'flipped' to show its DEF notation counterpart
     - DEF notation looks like this:
         - ```Audicle{Bass}>> >>C#2 - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - | F#1 - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - | B1 - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - | A1 - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - |```
-      - Unlike ABC notation, DEF notation fully supports drums and lyrics
+      - Unlike ABC notation, DEF notation fully supports drums
         - ```Audicle{Backbeat}>> >>B B . . S . . S . B B . . . S . | B B . B S . . S . . B B S . B S | B . . . S . . S . . B B S . B S | B . B . . . S . B B B B B B B B |```
+        - ```Audicle{Hi-Hat}>> >>O . P . P . P . P . P . P . P . | P . P . P . P . P . P . P . O . | H . H . H . H . H . H . H . O . | P . H . H . H . H . H . H . H```
+      -  and lyrics
         - ```Audicle{Lyrics#5a3442}>> >>. . And - it - was - . . so - pre - dict - | a - ble - . . I - . . could - n't - get - | it - though - . . I - . . could - n't - fig - | ure - that - it - would - turn - out - . . ri i | i - - - ght - so I left . my . bed in - chains! | - - - . felt - the emp . ti - ness . all - day! | - - I - kept - my - mouth - . shut - . I - | kept - my - mouth - . shut - and~look - . where . that . | got - me! -```
         - ```Audicle{Melody#5a3442}>> >>. . G#4 - G#4 - G#4 - . . F#4 - E4 - F#4 - | E4 - C#4 - . . C#4 - . . B3 - A#3 - B3 - | C#4 - C#4 - . . C#4 - . . B3 - A#3 - B3 - | C#4 - G#3 - G#3 - G#3 - G#3 - E4 - . . E4 B3 | C#4 - - - B3 - E4 D#4 E4 . D#4 . E4 D#4 - F#4 | - - - . E4 - D#4 E4 . D#4 - E4 . D#4 - F#4 | - - E4 - E4 - E4 - E4 - . E4 - . E4 - | E4 - E4 - E4 - . E4 - E4 - . E4 . E4 . | E4 - C#4 -```
