@@ -25,9 +25,11 @@
       - Also Has Character Model for Prismals Game?
       - [x] yes
 - # Daw features general
-  - Highly Customizable UX/UI, by a order of magnitude that far exceeds any daw on the market
+  - ##### Highly Customizable UX/UI
+    - By a order of magnitude that far exceeds any daw on the market
     - Completely Restyle the UI of the daw host and stock plugins by editing code directly, and make your own components and stock plugins by editing the code directly, or choose from dozens of unlockable presets themes that go far beyond simple color changes
-  - Brand new music notation system called DEF notation, inspired by ABC notation but 1-1 compatable with midi, meaning every midi clip in the daw can be 'flipped' to show its DEF notation counterpart
+  - ##### Brand new music notation system
+    - Called DEF notation, inspired by ABC notation but 1-1 compatable with midi, meaning every midi clip in the daw can be 'flipped' to show its DEF notation counterpart
     - DEF notation looks like this:
       - ```Audicle{Bass}>> >>C#2 - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - | F#1 - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - | B1 - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - | A1 - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - |```
       - ```Audicle{Keyboard}>> >>C#4 . . . C#4 . B3 . C#4 . . . C#4 . B3 . | C#4 . . . C#4 . B3 . C#4 . E4 . C#4 . B3 . | C#4 . . . C#4 . B3 . C#4 . . . C#4 . B3 . | C#4 . . . C#4 . B3 . C#4 . E4 . C#4 . B3 . | F#4 F#4 . . E4 E4 . . G#4 G#4 . . E4 E4 . . | F#4 F#4 . . E4 E4 . . G#4 G#4 . . B3 B3 C4 C4 | F#4 - F#4 - E4 - E4 - G#4 - G#4 - E4 - E4 - | F#4 - F#4 - E4 - E4 - G#4 - G#4 - B3 - C4 - |```
