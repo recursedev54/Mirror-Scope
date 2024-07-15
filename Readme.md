@@ -54,3 +54,25 @@
                     - Goofy Tactics: Despite their menacing nature, Skinwalkers often employ humorous and quirky tactics, adding a unique blend of fear and amusement to encounters.
                     - Invasion Focus: They are primarily focused on infiltrating player bases, using their shape-shifting abilities to bypass defenses and create chaos within.
                     - Skinwalkers are not just random enemies but part of a larger faction, forming camps and led by the Skinwalker King. Players will need to develop strategies to identify and combat these shape-shifters, invade the enemy base and take it down.
+                - #### Aliens
+                    - The Aliens are a formidable late game threat in the Mirror (Prismals) world. These creatures see humans as a delicacy and are determined to invade and dominate the world of Mirror. Players will encounter different types of aliens, each with its own unique characteristics and roles within their society.
+                    - Alien Types
+                      - Orange-skinned Aliens:
+                        - Ferocious Beasts: Resembling canid-like tentacle creatures, these aliens are known for their incredible speed, agility and ferocity. They often act as the vanguard in alien assaults, using melee attacks and razor sharp teeth.
+                        - Orange-skinned aliens are relentless in their pursuit of humans, often engaging in fast-paced, high-intensity chases.
+                      - Cyan-skinned Aliens:
+                        - Master Disguisers: These cat-like antrhopomorphic aliens possess the ability to disguise themselves, similar to Skinwalkers. They can blend into their surroundings and mimic other entities, making them difficult to spot.
+                        - Stealth Operatives: Cyan-skinned aliens are similar in nature to skinwalkers, but more intelligent, sabotaging and terrifying the players efforts from the shadows using psychological warfare and razor sharp claws.
+                      - Green-skinned Aliens:
+                        - Reconnaissance Agents: Bearing a more human-like appearance, green-skinned aliens operate as spies, blending into human society to gather information and execute covert operations.
+                        - General Populace: They are the most commonly encountered aliens, often seen mingling with humans to study their behavior and report back to their leaders.
+                      - Red-skinned Aliens:
+                        - Scientific and Military Leaders: These aliens are the masterminds behind the invasion, directing operations and developing advanced weaponry. They are highly intelligent and strategically minded.
+                        - Advanced Technology: Red-skinned aliens utilize cutting-edge technology to create formidable defenses and powerful weapons, making them a significant threat in direct confrontations.
+                    - Alien Invasion
+                      - The alien faction poses a serious threat to the Mirror world, with their ultimate goal being the complete subjugation of humanity. Players will need to thwart their plans by identifying and eliminating alien operatives, disrupting their reconnaissance missions, and ultimately taking the fight to the alien mothership themselves.
+                      - Key Objectives:
+                        - Preventing Invasion: Players must prevent alien invasions by defending key locations and neutralizing alien forces before they can establish a foothold.
+                        - Infiltrating the Mothership: In a high-stakes mission inspired by secret agent tales, players will need to infiltrate the alien mothership, plant explosives, and bring down the alien threat from within.
+                        - Defeating Alien Leaders: Confronting and defeating the red-skinned alien leaders is crucial to dismantling the alien command structure and ensuring the safety of the Mirror world.
+                        - The aliens in Mirror are not just generic invaders; they are a well-organized and multifaceted threat that requires players to be strategic and resourceful in their approach. By understanding the different alien types and their roles, players can develop effective strategies to combat this otherworldly menace.
