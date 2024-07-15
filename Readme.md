@@ -105,4 +105,3 @@
                     - Key Points:
                       - Post-encounter Interactions: After a demon is defeated or outwitted, players may have the option to engage in dialogues and build relationships with these entities, turning former enemies into allies.
                       - Unique Abilities: Befriended demons can offer special abilities or knowledge that can be crucial for overcoming future challenges. These abilities can range from magical powers to strategic insights, making them invaluable companions.
-                      - The demons in Mirror add a rich layer of depth to the game’s narrative and gameplay. By understanding their motivations, personalities, and abilities, players can develop strategies to navigate the complex world of demon intrigue, turning potential threats into powerful allies.
