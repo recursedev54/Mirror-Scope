@@ -8,6 +8,12 @@
       - Main Ai able to control the DAW
       - Also Has Character Model for Prismals Game?
       - [ ] no
+    - OSS
+      - Another main ai able to control the daw
+      - is not an llm unlike dawbrei
+      - able to generate chords from natural language
+      - Also Has Character Model for Prismals Game?
+      - [ ] no
     - Mira
       - Main Supporting Character of Prismals game, can do most of what Dawbreii does and more if unlocked as DAW controller
       - Also Has Character Model for Prismals Game?
@@ -105,3 +111,37 @@
                     - Key Points:
                       - Post-encounter Interactions: After a demon is defeated or outwitted, players may have the option to engage in dialogues and build relationships with these entities, turning former enemies into allies.
                       - Unique Abilities: Befriended demons can offer special abilities or knowledge that can be crucial for overcoming future challenges. These abilities can range from magical powers to strategic insights, making them invaluable companions.
+                    - Demon Bossfights and Characterization
+                      - Every demon from the ars goetia's lesser key of somolon are represented in the game, and all of them are fully fleshed out characters. All of them (Except Gremory) have bossfights as well with unique weapons and fighting styles.
+                        - You reach the Nine Circles dimension in Pirsmals. You’re greeted by paimon. You expected some scary thing, but it’s just a winged red skin dude in a white dress shirt and tuxedo pants with suspenders and sunglasses 
+“Welcome to hell, I’m paimon" Paimon could offer a deadpan, unenthusiastic tour of hell's attractions. He might complain about mundane aspects of running hell, like paperwork or union negotiations with lesser demons. Perhaps he's more interested in discussing earth pop culture than in tempting souls. Paimon's fight could be framed as a mandatory combat assessment for all new arrivals in hell.
+                        - other demons find themselves in similarly incongruous situations:
+                          - Astaroth's fight could be a deadly game show with increasingly absurd rules
+                          - Buer (often depicted as a wheel) could challenge the player to a bizarre hellish version of Wheel of Fortune
+                          - Furfur could host a lethal version of a weather forecast, attacking with overblown weather phenomena
+                          - Barbados' fight has a Build-up: Other demons talking about Barbatos in hushed, fearful tones, Ominous music and atmosphere as the player approaches, Maybe even some intimidating environmental changes
+                            - The Reveal:
+                               - The music suddenly cuts to a funky beat
+                               - Barbatos slides into view doing the worm
+                               - He pops up, does a spin, and strikes a pose, His attacks are all dance-move based but devastatingly powerful
+                                  - Moonwalk that creates shockwaves
+                                  - Windmill kicks that generate tornados
+                                  - Head spins that shoot laser beams
+                                     - Each phase of the fight introduced by Barbatos scratching a record, Different dance styles for different phases (breakdancing, pop-and-lock, even ballroom for a curveball)
+                                     - Barbatos trash-talking through rap lyrics between attacks
+                                     - The arena could transform into a giant dance floor
+                                     - Disco balls that shoot deadly light beams
+                                     - Dance-activated traps and hazards
+                                     - Maybe the player has to "out-dance" Barbatos at certain points
+                                     - Dodging could be rhythm-based
+                                     - Attacks might need to be timed to the beat for maximum effect
+                                  - Post-Fight:
+                                     - Barbatos, out of breath, casually asks the player for feedback on his mixtape
+                                     - Maybe he gives the player a signed copy of his album as a power-up
+                           
+#### Mirror (DAWg)
+
+###### `~How do the daw and the game connect?
+
+- In many ways the DAW and the world of Prismals are seperate and distinct. this isnt like VR or AR music sequencers, and its not like minecraft noteblocks. In 'Iconic' mode, as well as in 'Robust' mode, you can access the daw by builing and ingame computer after aquiring sufficent technology fabrication tools and raw materials to create them. The player can complete achivements and questlines to unlock upgrades for their daw.
+- There are basically two audio engines, the daw core and the game core audio engines. they mostly act as distinct and isolated engines.
