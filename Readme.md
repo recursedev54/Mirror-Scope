@@ -73,6 +73,7 @@
                        - The reversed cycle could introduce new nocturnal plants and animals unique to this dimension.
                        - Players might need to create artificial "daylight" to ward off skinwalkers or grow certain crops.
                        - Players could potentially create portals to briefly access the main world during its "day" for resources or respite.
+                       - Very late in this second act of the skinwalker arc, the player can become a skinwalker (known as the shinwalker), and also it is revealed there is another skinwalker like SkinwalkerA known as SkinwalkerB
                 - #### Aliens
                     - The Aliens are a formidable late game threat in the Mirror (Prismals) world. These creatures see humans as a delicacy and are determined to invade and dominate the world of Mirror. Players will encounter different types of aliens, each with its own unique characteristics and roles within their society.
                     - Alien Types
