@@ -60,6 +60,14 @@
                     - Goofy Tactics: Despite their menacing nature, Skinwalkers often employ humorous and quirky tactics, adding a unique blend of fear and amusement to encounters.
                     - Invasion Focus: They are primarily focused on infiltrating player bases, using their shape-shifting abilities to bypass defenses and create chaos within.
                     - Skinwalkers are not just random enemies but part of a larger faction, forming camps and led by the Skinwalker King. Players will need to develop strategies to identify and combat these shape-shifters, invade the enemy base and take it down.
+                       - The skinwalker king as a main antagonist creates a central conflict that players can choose to engage with or ignore.
+                       - The day night cycle will mirror your real life timezone, so you can potentially avoid skinwalkers completely if you don’t play at night.
+                       - Skinwalkers will employ goofy tactics like standing on each others shoulders to get into your base, but I’m also excited that they will be scary- if one finds you out in the wild it will stalk you and prey on you and will probably be pretty terrifying
+                    - SkinwalkerA
+                       - SkinwalkerA is a unique threat and somewhat of a super soldier among the skinwalker faction. SkinwalkerA was "born differant" and possess incredible speed strength agility edurance and toughness, regeneration, as well as being the only skinwalker able to weild magick
+                       - SkinwalkerA's actions, even when hostile, sometimes betray a hint of reluctance or inner conflict.
+                       - SkinwalkerA is the kings loyal knight. The king maintains power because he’s a good ruler and military leader and would squash anyone who rebels. When you kill skinwalkerA it’s revealed much later that he actually survived, and then there is the chance to have some sort of reconciliation and understanding. This would only be revealed after the skinwalker faction was taken down and the king killed by the player
+                       -  Late post game when the player is fighting against some high level threat post-alien invasion, SkinwalkerA will appear and save the player from demise
                 - #### Aliens
                     - The Aliens are a formidable late game threat in the Mirror (Prismals) world. These creatures see humans as a delicacy and are determined to invade and dominate the world of Mirror. Players will encounter different types of aliens, each with its own unique characteristics and roles within their society.
                     - Alien Types
