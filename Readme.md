@@ -121,23 +121,15 @@
                           - Furfur could host a lethal version of a weather forecast, attacking with overblown weather phenomena
                           - Barbados' fight has a Build-up: Other demons talking about Barbatos in hushed, fearful tones, Ominous music and atmosphere as the player approaches, Maybe even some intimidating environmental changes
                             - The Reveal:
-                               - The music suddenly cuts to a funky beat
-                               - Barbatos slides into view doing the worm
-                               - He pops up, does a spin, and strikes a pose, His attacks are all dance-move based but devastatingly powerful
+                               - The music suddenly cuts to a funky beat, Barbatos slides into view doing the worm, He pops up, does a spin, and strikes a pose, His attacks are all dance-move based but devastatingly powerful
                                   - Moonwalk that creates shockwaves
                                   - Windmill kicks that generate tornados
                                   - Head spins that shoot laser beams
-                                     - Each phase of the fight introduced by Barbatos scratching a record, Different dance styles for different phases (breakdancing, pop-and-lock, even ballroom for a curveball)
-                                     - Barbatos trash-talking through rap lyrics between attacks
-                                     - The arena could transform into a giant dance floor
-                                     - Disco balls that shoot deadly light beams
-                                     - Dance-activated traps and hazards
-                                     - Maybe the player has to "out-dance" Barbatos at certain points
-                                     - Dodging could be rhythm-based
-                                     - Attacks might need to be timed to the beat for maximum effect
+                                     - Each phase of the fight introduced by Barbatos scratching a record, Different dance styles for different phases (breakdancing, pop-and-lock, even ballroom for a curveball), Barbatos trash-talking through rap lyrics between attacks
+                                     - The arena could transform into a giant dance floor, Disco balls that shoot deadly light beams, Dance-activated traps and hazards
+                                     - Maybe the player has to "out-dance" Barbatos at certain points, Dodging could be rhythm-based, Attacks might need to be timed to the beat for maximum effect
                                   - Post-Fight:
-                                     - Barbatos, out of breath, casually asks the player for feedback on his mixtape
-                                     - Maybe he gives the player a signed copy of his album as a power-up
+                                     - Barbatos, out of breath, casually asks the player for feedback on his mixtape, Maybe he gives the player a signed copy of his album as a power-up
                            
 #### Mirror (DAWg)
 
