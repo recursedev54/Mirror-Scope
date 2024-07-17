@@ -193,6 +193,7 @@ B:     #8A7F8A`
             - Mita
             - Mia
             - Molly
+            - Marvin
             - Precis
             - Summit
             - Chaga
@@ -215,13 +216,7 @@ B:     #8A7F8A`
           - ### Zoological Prismals
             - Vaquita
           - ### Prismals Typing
-             - Abyssal
-             - Wyvern
-             - Faith
-             - Space
-             - Crystal
-             - Ancient
-             - Magnitude
+             - Each Prismal can have up to 2 types and 1 hidden type. The types are the same ones that Human element benders can have.
               
 - # General Mechanics (Prismals)
    - ## Mining
@@ -284,7 +279,71 @@ B:     #8A7F8A`
    - ## Triple Games
      - At some point the player is made aware that there is a bustling city a few thousand blocks away from the world origin.
        - The player can travel to this city and compete in the Triple Games, a tournament competition in a huge arena where Elemental Benders, High Magickal Practicioners, and Technomancers all compete in fierce competition.
-       - The reigning champion of the initial competition and the final boss of the initial competition is Mira-Clone 
+       - The reigning champion of the initial competition and the final boss of the initial competition is Mira-Clone
+   - ## Combat System
+     - The Combat System
+     - Types
+       - Life
+       - Geologic
+       - Faith
+       - Virulence
+       - Entropy
+       - Space
+       - Abyssal
+       - Water
+       - Fire
+       - Volcanic
+       - Ancient
+       - Future
+       - Electricity
+       - Space
+       - Crystal
+       - Bug
+       - Metal
+       - Void
+       - Geometry
+       - Wyvern
+       - Magick
+     - Spekts
+       - Spore 
+       - Plant
+       - Shield
+       - Raycast
+       - Magnet
+       - Phantom
+       - Velocity
+     - Casts
+       - Hex
+       - Bash
+       - Shell
+       - Chuck
+       - Ham
+     - Scopes
+       - Article
+       - Audicle
+       - Subtle
+       - Battler
+       - Hypo-Subtle
+       - Not-Subtle
+     - Sets
+       - Mira Set
+       - System Set
+       - Web Set
+     - Classes
+       - Glass
+       - Cannon
+       - Squishy
+       - Defense
+     - Mains
+       - Baby
+       - Mira
+       - Sunbird
+       - Summit
+       - Chaga
+       - Oroborus
+       - Devil
+       - Marvin
+      
 #### Mirror (DAWg)
 
 ###### `~How do the daw and the game connect?
