@@ -231,6 +231,9 @@ B:     #8A7F8A`
               - Small pupfish like prismal, only found in rare hot spring holes
             - Devlish
               - Evolution of Puptish, much bigger, gaining a huge set of teeth, able to grow to the size of a large pit bull
+            - Sharkcuterie
+              - Brilliant Lime-Cyan Colored Shark
+              - Ferocious but known to be a symbol of good luck if you see one
           - ### Ancient Mazing Prismals
             - Anomolomatnus
               - Anomolocaris inspired magnet shrimp, can often be found swimming in pairs, as if they are magnetized to each others side
@@ -254,6 +257,9 @@ B:     #8A7F8A`
             - Flounder
             - Bluefin Tuna
             - Swordfish
+            - Sea Bass
+            - Lobster
+            - Seal
           - ### Ancient Zoological Prismals
             - Plesiosaur
             - Kronosaur
