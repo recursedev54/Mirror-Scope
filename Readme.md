@@ -126,15 +126,15 @@
                     - Key Points:
                       - Post-encounter Interactions: After a demon is defeated or outwitted, players may have the option to engage in dialogues and build relationships with these entities, turning former enemies into allies.
                       - Unique Abilities: Befriended demons can offer special abilities or knowledge that can be crucial for overcoming future challenges. These abilities can range from magical powers to strategic insights, making them invaluable companions.
-                    - Demon Bossfights and Characterization
+                    - ### Demon Bossfights and Characterization
                       - Every demon from the ars goetia's lesser key of somolon are represented in the game, and all of them are fully fleshed out characters. All of them (Except Gremory) have bossfights as well with unique weapons and fighting styles.
-                        - You reach the Nine Circles dimension in Pirsmals. You’re greeted by paimon. You expected some scary thing, but it’s just a winged red skin dude in a white dress shirt and tuxedo pants with suspenders and sunglasses 
+                        -  You reach the Nine Circles dimension in Pirsmals. You’re greeted by paimon. You expected some scary thing, but it’s just a winged red skin dude in a white dress shirt and tuxedo pants with suspenders and sunglasses 
 “Welcome to hell, I’m paimon" Paimon could offer a deadpan, unenthusiastic tour of hell's attractions. He might complain about mundane aspects of running hell, like paperwork or union negotiations with lesser demons. Perhaps he's more interested in discussing earth pop culture than in tempting souls. Paimon's fight could be framed as a mandatory combat assessment for all new arrivals in hell.
                         - other demons find themselves in similarly incongruous situations:
-                          - Astaroth's fight could be a deadly game show with increasingly absurd rules
-                          - Buer (often depicted as a wheel) could challenge the player to a bizarre hellish version of Wheel of Fortune
-                          - Furfur could host a lethal version of a weather forecast, attacking with overblown weather phenomena
-                          - Barbados' fight has a Build-up: Other demons talking about Barbatos in hushed, fearful tones, Ominous music and atmosphere as the player approaches, Maybe even some intimidating environmental changes
+                          - #### Astaroth's fight could be a deadly game show with increasingly absurd rules
+                          - #### Buer (often depicted as a wheel) could challenge the player to a bizarre hellish version of Wheel of Fortune
+                          - #### Furfur could host a lethal version of a weather forecast, attacking with overblown weather phenomena
+                          - #### Barbados' fight has a Build-up: Other demons talking about Barbatos in hushed, fearful tones, Ominous music and atmosphere as the player approaches, Maybe even some intimidating environmental changes
                             - The Reveal:
                                - The music suddenly cuts to a funky beat, Barbatos slides into view doing the worm, He pops up, does a spin, and strikes a pose, His attacks are all dance-move based but devastatingly powerful
                                   - Moonwalk that creates shockwaves
@@ -153,19 +153,21 @@
                 - These 10 foot humaniod creatures with mysterious psychic powers can rarely be found standing in meadows. Its rare to see them move at all. They won't attack you unless you provoke them significantly, and if you try to approach one you'll find yourself stopped by some sort of forcefield.
               - ## Ghosts
                 - Ghosts come in many forms, shapes and sizes. Some are vengeful spirits, and some are docile or even helpful. You need special equipment to be able to see some types of ghosts.
-                  - Shade
+                  - #### Shade
                     - Sometimes visible to the naked eye, usually obscured by shadow
                     - Can appear in a common form, or specific form, like the Sniper Ghost
                     - Usually neutral or melancholic, rarely considered threatening
-                  - Sniper Ghost
+                  - #### Sniper Ghost
                      - A type of Shade. These ghosts were assassins in their past life. Now their head is shapes like a sniper rifle, and they are neutral but confused and will often act in self defence by attacking first. they can shoot from their head like its a railgun.
-                  - Poltergiest
+                  - #### Poltergiest
                      - A poltergeist is a type of ghost or supernatural phenomenon that is known for physical disturbances rather than visual appearances.
                      - Often invisible, Poltergeists are typically unseen, and need special tech to percieve.
                      - They are generally not very dangerous and can be dealt with gracefully
-                  - Shadow People
+                  - #### Shadow People
                      - Often considered malevolent, dark, humanoid silhouettes often reported as watching, following, or even attacking or performing hexes and curses people
                      - Threatening and dangerous, must be handled with caution
+                  - #### Genius Loci (Spirit of Place):
+                     - A place itself which seems to be a malevolent or mysterious entity, absorbing the negative energy of past events and actively influencing current inhabitants. A case genius loci gone bad - a spirit intrinsically tied to a location, is present in Chapter four (post alien invasion), after the player recieves a radio transmission of the location of a mysterious mansion which they must travel to and uncover its mysteries.
 - # General Mechanics (Prismals)
    - Mining
       - Right click and hold to charge up your pickaxe axe or shovel swing, left click to release and break a block. some blocks made of harder materials take multiple swings to break. some valueable materials like ores have a risk of not dropping and being destroyed if you use a tool that is too powerful, or you charge up the tool too much and dont use enough finesse.
