@@ -61,6 +61,12 @@ A#/Bb: #8C5F66
 B:     #8A7F8A`
   - ### Rainbow Tracks
     - Much like the rainbow piano roll, you can color each track in the timeline whatever you want, using any hex code, or even use multiple for a gradient, or animate between multiple for an rainbow RGB effect.
+  - ### Real Voice Cloning
+    - Train and clone your own and other voices and apply them directly onto vocal tracks without any confusing popups or processes
+    - The Mirror Company includes some propriotary voices, and lets you train your own models and datasets as you see fit, respecting voice actor autonomy and musician experimentation.
+  - ### The World Soul
+    - Generate audio clips from mad-libs style text prompts sourcing public domain from the 1920s and pre-1920s!
+    - The Mirror Company believes strongly in artist intellectual property and does not train on any copyrighted material period, but you are welcome to fine tune the model as you see fit
 
 
 #### Mirror (Prismals)
@@ -337,6 +343,8 @@ B:     #8A7F8A`
      - Mains
        - Baby
        - Mira
+       - Mira-Clone
+       - Precis
        - Sunbird
        - Summit
        - Chaga
