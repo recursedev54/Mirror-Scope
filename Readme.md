@@ -45,6 +45,20 @@
     -  And lyrics!
         - ```Audicle{Lyrics#5a3442}>> >>. . And - it - was - . . so - pre - dict - | a - ble - . . I - . . could - n't - get - | it - though - . . I - . . could - n't - fig - | ure - that - it - would - turn - out - . . ri i | i - - - ght - so I left . my . bed in - chains! | - - - . felt - the emp . ti - ness . all - day! | - - I - kept - my - mouth - . shut - . I - | kept - my - mouth - . shut - and~look - . where . that . | got - me! -```
         - ```Audicle{Melody#5a3442}>> >>. . G#4 - G#4 - G#4 - . . F#4 - E4 - F#4 - | E4 - C#4 - . . C#4 - . . B3 - A#3 - B3 - | C#4 - C#4 - . . C#4 - . . B3 - A#3 - B3 - | C#4 - G#3 - G#3 - G#3 - G#3 - E4 - . . E4 B3 | C#4 - - - B3 - E4 D#4 E4 . D#4 . E4 D#4 - F#4 | - - - . E4 - D#4 E4 . D#4 - E4 . D#4 - F#4 | - - E4 - E4 - E4 - E4 - . E4 - . E4 - | E4 - E4 - E4 - . E4 - E4 - . E4 . E4 . | E4 - C#4 -```
+  - ### Rainbow Piano Roll
+    - Finally you don't have to settle for just one color for each of your midi clips. Rainbow midi means you're easily able to tell which note is which. You can make each note of the chromatic scale whatever you want, but these are the defaults
+    - `C:     #4E6E82
+C#/Db: #55786C
+D:     #7C9356
+D#/Eb: #7A9356
+E:     #D1B852
+F:     #E0A162
+F#/Gb: #DCA061
+G:     #DB665A
+G#/Ab: #D65656
+A:     #C07376
+A#/Bb: #8C5F66
+B:     #8A7F8A`
 
 
 #### Mirror (Prismals)
