@@ -75,7 +75,7 @@
                        - Players could potentially create portals to briefly access the main world during its "day" for resources or respite.
                        - Very late in this second act of the skinwalker arc, the player can become a skinwalker (known as the shinwalker), and also it is revealed there is another skinwalker like SkinwalkerA known as SkinwalkerB
                        - It is revealed that this Mirror Dimension is actually *Mira's World* and letting the Skinwalker faction loose here sets in motion a lot of the tension the propels the narritive forward from here.
-                - #### Aliens
+                - ## Aliens
                     - The Aliens are a formidable late game threat in the Mirror (Prismals) world. These creatures see humans as a delicacy and are determined to invade and dominate the world of Mirror. Players will encounter different types of aliens, each with its own unique characteristics and roles within their society.
                     - Alien Types
                       - Orange-skinned Aliens:
@@ -97,7 +97,7 @@
                         - Infiltrating the Mothership: In a high-stakes mission inspired by secret agent tales, players will need to infiltrate the alien mothership, plant explosives, and bring down the alien threat from within.
                         - Defeating Alien Leaders: Confronting and defeating the red-skinned alien leaders is crucial to dismantling the alien command structure and ensuring the safety of the Mirror world.
                         - The aliens in Mirror are not just generic invaders; they are a well-organized and multifaceted threat that requires players to be strategic and resourceful in their approach. By understanding the different alien types and their roles, players can develop effective strategies to combat this otherworldly menace.
-                - #### Demons
+                - ## Demons
                   - The Demons are the third primary antagonistic forces in the Mirror world, drawn directly from the 72 demons of the Lesser Key of Solomon. These entities are powerful, cunning, and imbued with unique personalities and abilities. In Mirror, they are personified and cartoonified into goofy, charismatic characters.
                   - Demon Hierarchy
                     - In keeping with the structure of the Lesser Key of Solomon, demons in Mirror are organized into various ranks and titles, each representing different levels of power and influence. The ranks include:
