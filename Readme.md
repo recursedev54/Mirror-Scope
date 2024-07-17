@@ -167,12 +167,11 @@ B:     #8A7F8A`
                                      - Maybe the player has to "out-dance" Barbatos at certain points, Dodging could be rhythm-based, Attacks might need to be timed to the beat for maximum effect
                                   - Post-Fight:
                                      - Barbatos, out of breath, casually asks the player for feedback on his mixtape, Maybe he gives the player a signed copy of his album as a power-up
-          - ### Common Monstrous Prismals
+          - ### Cryptic Monstrous Prismals
             - These are the enemies of the Prismals Game, they do not pose a threat to the world at large, but will be hostile to you if you encounter them
               - ##  Silver Spiders
                 - These monstrous primsmals are actually not spiders at all, but giant hermit crab like creatures with tough shells. You can find them in caves often near water, and they will attack you on sight! you can pacify them by feeding them seafood like fish, or defeat them and smelt down their shells for raw silver.
-              - ## White Walkers
-                - These 10 foot humaniod creatures with mysterious psychic powers can rarely be found standing in meadows. Its rare to see them move at all. They won't attack you unless you provoke them significantly, and if you try to approach one you'll find yourself stopped by some sort of forcefield.
+
               - ## Ghosts
                 - Ghosts come in many forms, shapes and sizes. Some are vengeful spirits, and some are docile or even helpful. You need special equipment to be able to see some types of ghosts.
                   - #### Shade
@@ -190,6 +189,13 @@ B:     #8A7F8A`
                      - Threatening and dangerous, must be handled with caution
                   - #### Genius Loci (Spirit of Place):
                      - A place itself which seems to be a malevolent or mysterious entity, absorbing the negative energy of past events and actively influencing current inhabitants. A case genius loci gone bad - a spirit intrinsically tied to a location, is present in Chapter four (post alien invasion), after the player recieves a radio transmission of the location of a mysterious mansion which they must travel to and uncover its mysteries.
+          - ### Cryptid Monstrous Prismals
+            - ## White Walkers
+                - These 10 foot humaniod creatures with mysterious psychic powers can rarely be found standing in meadows. Its rare to see them move at all. They won't attack you unless you provoke them significantly, and if you try to approach one you'll find yourself stopped by some sort of forcefield.
+            - ## Nomura's Jellyfish
+                -  A jellyfish 50-100 feet in diameter. Deep purple in color with a pink rim.
+            - ## Giant Dragonfish
+                - A species of Dragonfish able to reach six feet in length, able to be found if descended to a depth of 640 metres (2100 feet).
           - ### Main Character Prismals
             - Mira
             - Mira-Clone
@@ -218,13 +224,62 @@ B:     #8A7F8A`
             - Quanticlaw
               - Blue Titan Lobster with Eldrich power
             - Nebugla
+              - Giant cosmic butterfly, over 30 feet in size, can be found in nebulas biomes.
             - Menalula
               - Continent-size luna moth capable of manipulating gravity waves on a similar scale to our moon
+            - Puptish
+              - Small pupfish like prismal, only found in rare hot spring holes
+            - Devlish
+              - Evolution of Puptish, much bigger, gaining a huge set of teeth, able to grow to the size of a large pit bull
+          - ### Ancient Mazing Prismals
+            - Anomolomatnus
+              - Anomolocaris inspired magnet shrimp, can often be found swimming in pairs, as if they are magnetized to each others side
+            - Aeocazzegiroth
+              - Evolution of Anomolomatnus, much bigger and heavier and slower, but with hardened neodynium plated skin and magnetic replulsion and propulsion abilities
           - ### Zoological Prismals
             - Vaquita
+            - Sunfish
+            - Vampire Squid
+            - Giant Squid
+            - Comb Jelly
+            - Barrel Fish
+            - Manta Ray
+            - Snailfish
+            - Salmon
+            - Rainbow Trout
+            - Bluegill
+            - Largemouth Bass
+            - Smallmouth Bass
+            - Halibut
+            - Flounder
+            - Bluefin Tuna
+            - Swordfish
+          - ### Ancient Zoological Prismals
+            - Plesiosaur
+            - Kronosaur
           - ### Prismals Typing
              - Each Prismal can have up to 2 types and 1 hidden type. The types are the same ones that Human element benders can have.
-              
+- # Biomes (Prismals)
+  - ## Water-Based
+     - Hydrothermal Vents
+     - Cold Seeps
+     - Coral Reefs
+     - Sea
+     - Lake
+     - Ocean
+     - Reef
+     - Kelp Forest
+  - ## Land-Based
+    - Field
+    - Countryside
+  - ## Cave-Based
+    - Verdant Cave
+    - Ice Cave
+    - Volcanic Cave
+    - Staligmite Cave
+  - ## Space-Biomes
+    - Nebula
+    - Asteriod Field
 - # General Mechanics (Prismals)
    - ## Mining
       - Right click and hold to charge up your pickaxe axe or shovel swing, left click to release and break a block. some blocks made of harder materials take multiple swings to break. some valueable materials like ores have a risk of not dropping and being destroyed if you use a tool that is too powerful, or you charge up the tool too much and dont use enough finesse.
@@ -263,9 +318,9 @@ B:     #8A7F8A`
      - The Expanse
         - The Main World
      - The Thread
-      - Internet Dimension
+       - the thread is an internet-like dimension
      - Space Station
-      - In space, still orbiting The Expanse
+       - In space, still orbiting The Expanse
      - Deep Space
        - Inhabited by Nebugala and Menalula
        - Includes the Nebula Space Biome
@@ -311,6 +366,7 @@ B:     #8A7F8A`
        - Geometry
        - Wyvern
        - Magick
+       - Melee
      - Spekts
        - Spore 
        - Plant
