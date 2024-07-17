@@ -251,6 +251,12 @@ B:     #8A7F8A`
           - Surface meteorites are often found by visual searches or metal detectors.
           - Underground meteorites might be discovered during mining operations, construction, or scientific excavations.
           - Can be used to make extremely strong and extremely durable tools that respond well to tech, magic, and magitech augmentations
+   - ## Foliage System
+     - Leaves can be walked through and stoof on but deal slight damage when run through. Leaves slow mobs down but not players and skinwalkers
+     - A tree can be head butten by a prismal to reveal a prismal or item like fruit or some other object that may be in the tree
+     - When a part of a tree is cut down, the top part of the tree will fall one block as if its effected by gravity, and the tree leaf blocks will fall too, every block falling at the same time as you cut the tree logs.
+     - Trees logs give raw wood when cut down.
+     - You can climb up logs
    - ## Dimensions
      - The Expanse
         - The Main World
@@ -270,9 +276,15 @@ B:     #8A7F8A`
      - Infernal Region
        - The Underworld, has some cold and some hot areas.
        - Often visited by Paimon and several other demons, some of which have obligations here
+     - The Cambrian Era
+       - Accessed after unlocking the time machine. Home to many Ancient Mazing and Ancient Zoological Prismals
    - ## Predator/Prey Alignment System
      - Certain Actions in game like killing animals, eating meat, and sparing entities effects a predator/prey alignment that has certain gameplay effects.
        - One example is that becoming a predator will make enemies fear you, but becomeing prey will make it easier to tame, train, and befriend prismals
+   - ## Triple Games
+     - At some point the player is made aware that there is a bustling city a few thousand blocks away from the world origin.
+       - The player can travel to this city and compete in the Triple Games, a tournament competition in a huge arena where Elemental Benders, High Magickal Practicioners, and Technomancers all compete in fierce competition.
+       - The reigning champion of the initial competition and the final boss of the initial competition is Mira-Clone 
 #### Mirror (DAWg)
 
 ###### `~How do the daw and the game connect?
