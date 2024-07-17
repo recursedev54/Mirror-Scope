@@ -145,6 +145,27 @@
                                      - Maybe the player has to "out-dance" Barbatos at certain points, Dodging could be rhythm-based, Attacks might need to be timed to the beat for maximum effect
                                   - Post-Fight:
                                      - Barbatos, out of breath, casually asks the player for feedback on his mixtape, Maybe he gives the player a signed copy of his album as a power-up
+          - ### Common Monstrous Prismals
+            - These are the enemies of the Prismals Game, they do not pose a threat to the world at large, but will be hostile to you if you encounter them
+              - ##  Silver Spiders
+                - These monstrous primsmals are actually not spiders at all, but giant hermit crab like creatures with tough shells. You can find them in caves often near water, and they will attack you on sight! you can pacify them by feeding them seafood like fish, or defeat them and smelt down their shells for raw silver.
+              - ## White Walkers
+                - These 10 foot humaniod creatures with mysterious psychic powers can rarely be found standing in meadows. Its rare to see them move at all. They won't attack you unless you provoke them significantly, and if you try to approach one you'll find yourself stopped by some sort of forcefield.
+              - ## Ghosts
+                - Ghosts come in many forms, shapes and sizes. Some are vengeful spirits, and some are docile or even helpful. You need special equipment to be able to see some types of ghosts.
+                  - Shade
+                    - Sometimes visible to the naked eye, usually obscured by shadow
+                    - Can appear in a common form, or specific form, like the Sniper Ghost
+                    - Usually neutral or melancholic, rarely considered threatening
+                  - Sniper Ghost
+                     - A type of Shade. These ghosts were assassins in their past life. Now their head is shapes like a sniper rifle, and they are neutral but confused and will often act in self defence by attacking first. they can shoot from their head like its a railgun.
+                  - Poltergiest
+                     - A poltergeist is a type of ghost or supernatural phenomenon that is known for physical disturbances rather than visual appearances.
+                     - Often invisible, Poltergeists are typically unseen, and need special tech to percieve.
+                     - They are generally not very dangerous and can be dealt with gracefully
+                  - Shadow People
+                     - Often considered malevolent, dark, humanoid silhouettes often reported as watching, following, or even attacking or performing hexes and curses people
+                     - Threatening and dangerous, must be handled with caution
 - # General Mechanics (Prismals)
    - Mining
       - Right click and hold to charge up your pickaxe axe or shovel swing, left click to release and break a block. some blocks made of harder materials take multiple swings to break. some valueable materials like ores have a risk of not dropping and being destroyed if you use a tool that is too powerful, or you charge up the tool too much and dont use enough finesse.
