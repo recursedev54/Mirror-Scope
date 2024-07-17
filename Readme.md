@@ -184,8 +184,47 @@ B:     #8A7F8A`
                      - Threatening and dangerous, must be handled with caution
                   - #### Genius Loci (Spirit of Place):
                      - A place itself which seems to be a malevolent or mysterious entity, absorbing the negative energy of past events and actively influencing current inhabitants. A case genius loci gone bad - a spirit intrinsically tied to a location, is present in Chapter four (post alien invasion), after the player recieves a radio transmission of the location of a mysterious mansion which they must travel to and uncover its mysteries.
+          - ### Main Character Prismals
+            - Mira
+            - Mira-Clone
+            - Miri
+            - Mida
+            - Miga
+            - Mita
+            - Mia
+            - Molly
+            - Precis
+            - Summit
+            - Chaga
+            - Codex
+            - Sunbird
+          - ### Mazing Prismals
+            - The Ancient Future Cardinal-Tron
+               - Giant flying skeletal pterodactylus, with beaming green particles of energy buzzing around it constantly
+            - Zirroqualis
+              - Zircon whale with bright blue crystal zircon exoskeleton, it protects the whale from predators and insulates it in cold water
+            - Sbirdy
+            - Carvil
+            - Elephantom
+            - Elephantussle
+            - Quanticlaw
+              - Blue Titan Lobster with Eldrich power
+            - Nebugla
+            - Menalula
+              - Continent-size luna moth capable of manipulating gravity waves on a similar scale to our moon
+          - ### Zoological Prismals
+            - Vaquita
+          - ### Prismals Typing
+             - Abyssal
+             - Wyvern
+             - Faith
+             - Space
+             - Crystal
+             - Ancient
+             - Magnitude
+              
 - # General Mechanics (Prismals)
-   - Mining
+   - ## Mining
       - Right click and hold to charge up your pickaxe axe or shovel swing, left click to release and break a block. some blocks made of harder materials take multiple swings to break. some valueable materials like ores have a risk of not dropping and being destroyed if you use a tool that is too powerful, or you charge up the tool too much and dont use enough finesse.
       - Progress enough through the technology tree and you'll eventually be able to craft handheld drills. Right click and hold to charge up the drill, and left click to continuously break blocks in the direction you're aiming, but be careful not to waste fuel or electricity, or accidentally destroy a valueable ore by not paying attention to what you're mining.
       - Ores
@@ -212,7 +251,28 @@ B:     #8A7F8A`
           - Surface meteorites are often found by visual searches or metal detectors.
           - Underground meteorites might be discovered during mining operations, construction, or scientific excavations.
           - Can be used to make extremely strong and extremely durable tools that respond well to tech, magic, and magitech augmentations
-                           
+   - ## Dimensions
+     - The Expanse
+        - The Main World
+     - The Thread
+      - Internet Dimension
+     - Space Station
+      - In space, still orbiting The Expanse
+     - Deep Space
+       - Inhabited by Nebugala and Menalula
+       - Includes the Nebula Space Biome
+     - The Mirror Dimension
+       - Mira's World
+       - Night-World
+     - Ante-Rooms
+       - Constructed from and as Latent and Liminal Space
+       - Includes Simulated Universes
+     - Infernal Region
+       - The Underworld, has some cold and some hot areas.
+       - Often visited by Paimon and several other demons, some of which have obligations here
+   - ## Predator/Prey Alignment System
+     - Certain Actions in game like killing animals, eating meat, and sparing entities effects a predator/prey alignment that has certain gameplay effects.
+       - One example is that becoming a predator will make enemies fear you, but becomeing prey will make it easier to tame, train, and befriend prismals
 #### Mirror (DAWg)
 
 ###### `~How do the daw and the game connect?
