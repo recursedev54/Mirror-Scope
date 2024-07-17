@@ -244,7 +244,7 @@ B:     #8A7F8A`
             - Swordfish
             - Sea Bass
             - Lobster
-            - Seal
+            - Harbor Seal
           - ### Ancient Zoological Prismals
             - Plesiosaur
             - Kronosaur
