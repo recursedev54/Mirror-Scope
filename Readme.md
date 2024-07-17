@@ -196,22 +196,7 @@ B:     #8A7F8A`
                 -  A jellyfish 50-100 feet in diameter. Deep purple in color with a pink rim.
             - ## Giant Dragonfish
                 - A species of Dragonfish able to reach six feet in length, able to be found if descended to a depth of 640 metres (2100 feet).
-          - ### Main Character Prismals
-            - Mira
-            - Mira-Clone
-            - Miri
-            - Mida
-            - Miga
-            - Mita
-            - Mia
-            - Molly
-            - Marvin
-            - Precis
-            - Summit
-            - Chaga
-            - Codex
-            - Sunbird
-            - Beax
+
           - ### Mazing Prismals
             - The Ancient Future Cardinal-Tron
                - Giant flying skeletal pterodactylus, with beaming green particles of energy buzzing around it constantly
@@ -421,3 +406,19 @@ B:     #8A7F8A`
 
 - In many ways the DAW and the world of Prismals are seperate and distinct. this isnt like VR or AR music sequencers, and its not like minecraft noteblocks. In 'Iconic' mode, as well as in 'Robust' mode, you can access the daw by builing and ingame computer after aquiring sufficent technology fabrication tools and raw materials to create them. The player can complete achivements and questlines to unlock upgrades for their daw.
 - There are basically two audio engines, the daw core and the game core audio engines. they mostly act as distinct and isolated engines.
+  - Main Character Prismals
+            - Mira
+            - Mira-Clone
+            - Miri
+            - Mida
+            - Miga
+            - Mita
+            - Mia
+            - Molly
+            - Marvin
+            - Precis
+            - Summit
+            - Chaga
+            - Codex
+            - Sunbird
+            - Beax
