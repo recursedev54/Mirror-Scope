@@ -59,6 +59,8 @@ G#/Ab: #D65656
 A:     #C07376
 A#/Bb: #8C5F66
 B:     #8A7F8A`
+  - ### Rainbow Piano Roll
+    - Much like the rainbow piano roll, you can color each track in the timeline whatever you want, using any hex code, or even use multiple for a gradient, or animate between multiple for an rainbow RGB effect.
 
 
 #### Mirror (Prismals)
