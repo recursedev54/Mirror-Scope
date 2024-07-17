@@ -145,6 +145,34 @@
                                      - Maybe the player has to "out-dance" Barbatos at certain points, Dodging could be rhythm-based, Attacks might need to be timed to the beat for maximum effect
                                   - Post-Fight:
                                      - Barbatos, out of breath, casually asks the player for feedback on his mixtape, Maybe he gives the player a signed copy of his album as a power-up
+- # General Mechanics (Prismals)
+   - Mining
+      - Right click and hold to charge up your pickaxe axe or shovel swing, left click to release and break a block. some blocks made of harder materials take multiple swings to break. some valueable materials like ores have a risk of not dropping and being destroyed if you use a tool that is too powerful, or you charge up the tool too much and dont use enough finesse.
+      - Progress enough through the technology tree and you'll eventually be able to craft handheld drills. Right click and hold to charge up the drill, and left click to continuously break blocks in the direction you're aiming, but be careful not to waste fuel or electricity, or accidentally destroy a valueable ore by not paying attention to what you're mining.
+      - Ores
+        - Silver
+           - Good and relatively easy to obtain metal for making weapons that are strong against skinwalkers, demons, and other unholy creatures. Can also be used to make tool heads. Good durability and strength
+        - Quartz
+           - Used for many tech recipes and magical implements due to its magical and technologically useful properties
+        - Amethyst
+           - Fiarly rare crystal, can be used to make high-mid tier tools, also has magical properties of positive energy. Mediocre durability but excellent strength
+        - Ruby
+           - can make tools with excellent strength and excellent durability, very rare, also is a very good conduit for magical imbuement
+        - Bastnäsite (Neodymium)
+           - Yellow, or reddish in color and forms in prismatic crystals or masses. Bastnäsite is a primary source of rare earth elements like neodymium.
+           - Found in carbonatites and other igneous rocks, often in association with other rare earth minerals.
+           - Can make neodynmium tools with excellent strength and excellent durrability that are capable of magitech augmentations
+        - Fluorite
+           - It can be found in a wide range of colors, including purple, green, yellow, blue, and clear. Fluorite crystals are typically cubic and can exhibit fluorescence under ultraviolet light.
+           - Found in hydrothermal veins, often associated with minerals like quartz, calcite, and sulfides. It is also found in sedimentary and metamorphic rocks.
+           - Can make tools with mediocre durability and strength, can also make magical implements and is extremely good canidate for magical imbuement
+        - Nephrite & Jadeite
+          - Both forms of jade, both are quite rare and can be used to make tools and weapons that have good strength and durability. Good canidate for magical imbuement and magitech, but not as good as a magitech canidate as Neodymium, and not as good of a canidate for imbuement as ruby or flourite, but better than amethyst and quartz.
+        - Meteorite
+          - Very rare
+          - Surface meteorites are often found by visual searches or metal detectors.
+          - Underground meteorites might be discovered during mining operations, construction, or scientific excavations.
+          - Can be used to make extremely strong and extremely durable tools that respond well to tech, magic, and magitech augmentations
                            
 #### Mirror (DAWg)
 
