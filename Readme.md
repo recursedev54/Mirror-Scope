@@ -205,6 +205,7 @@ B:     #8A7F8A`
             - Chaga
             - Codex
             - Sunbird
+            - Beax
           - ### Mazing Prismals
             - The Ancient Future Cardinal-Tron
                - Giant flying skeletal pterodactylus, with beaming green particles of energy buzzing around it constantly
