@@ -263,6 +263,24 @@ B:     #8A7F8A`
   - ## Land-Based
     - Field
     - Countryside
+    - Geyser Basin
+      - Landscape: Characterized by numerous geothermal features including geysers, hot springs, mud pots, and fumaroles.
+      - Geology: Formed by volcanic and tectonic activity, typically in areas with thin or fractured Earth's crust.
+      - Water features: Contains various types of hot water features, ranging from violently erupting geysers to calm, colorful hot spring pools.
+      - Microbial life: Home to unique extremophile microorganisms that thrive in high-temperature, often acidic environments.
+      - Mineral deposits: Often displays colorful mineral formations and deposits around thermal features, created by dissolved minerals precipitating from the hot water.
+    - Coniferous Forests
+      - Trees: Dominated by cone-bearing trees (conifers) like pines, spruces, firs, and cedars.
+      - Leaves: Have needle-like or scale-like leaves that typically remain green year-round.
+      - Climate: Often found in cooler climates and higher altitudes.
+      - Soil: Tend to have more acidic soil due to the decomposition of needles.
+      - Biodiversity: Generally less diverse understory due to less light reaching the forest floor.
+    - Deciduous Forests
+      - Trees: Characterized by broad-leaved trees like oaks, maples, beeches, and birches.
+      - Leaves: Have flat, broad leaves that change color and fall off in autumn.
+      - Climate: Usually found in temperate regions with distinct seasons.
+      - Soil: Often have richer soil due to leaf litter decomposition.
+      - Biodiversity: Typically more diverse understory, especially in spring before full leaf coverage.
   - ## Cave-Based
     - Verdant Cave
     - Ice Cave
