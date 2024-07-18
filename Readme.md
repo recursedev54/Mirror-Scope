@@ -251,16 +251,15 @@ B:     #8A7F8A`
           - ### Prismals Typing
              - Each Prismal can have up to 2 types and 1 hidden type. The types are the same ones that Human element benders can have.
 - # Biomes (Prismals)
-  - ## Water-Based
+  - ## Water-Biomes
      - Hydrothermal Vents
      - Cold Seeps
-     - Coral Reefs
-     - Sea
-     - Lake
-     - Ocean
-     - Reef
+     - Cold-Water Coral Reefs
      - Kelp Forest
-  - ## Land-Based
+     - Seagrass meadows
+  - ## Coastal-Biomes
+    - Salt Marshes
+  - ## Land-Biomes
     - Field
     - Countryside
     - Geyser Basin
@@ -281,7 +280,7 @@ B:     #8A7F8A`
       - Climate: Usually found in temperate regions with distinct seasons.
       - Soil: Often have richer soil due to leaf litter decomposition.
       - Biodiversity: Typically more diverse understory, especially in spring before full leaf coverage.
-  - ## Cave-Based
+  - ## Cave-Biomes
     - Verdant Cave
     - Ice Cave
     - Volcanic Cave
