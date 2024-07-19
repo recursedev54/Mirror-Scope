@@ -110,6 +110,7 @@ B:     #8A7F8A`
                       - Misc. Points
                        - no lone walkers dont call in reinforcements, it just doesnt really fit the vibe. the reason they are scary in the first place is becuase of the feeling like youre being watched by something behind that tree or something or other. its not about being overwealmed by a pack of wolves and feeling defenceless, its about the feeling that you could be currently being stalked by just one wolf and youll have to give all your might to save yourself ((replace wolf with skinwalker))
                        - yes there are elite skinwalkers. SkinwalkerA and SkinwalkerB are the main ones, but there are also skinwalker mini bosses. Skinwalker(#79346541987), Skinwalker(#23), Skinwalker (#67) Skinwalker(#6,#7), $kinwalker (4), and Skinwalker (3)
+                       - the elite skinwalkers all kind of have the same personality of not really caring about scaring the player or stalking. they are more interested in a "clean fight" . dont get it twisted, they arent honorable. they want the play dead as dead can be, they just are prideful and would rather fight mano a mano
                 - ## Aliens
                     - The Aliens are a formidable late game threat in the Mirror (Prismals) world. These creatures see humans as a delicacy and are determined to invade and dominate the world of Mirror. Players will encounter different types of aliens, each with its own unique characteristics and roles within their society.
                     - Alien Types
