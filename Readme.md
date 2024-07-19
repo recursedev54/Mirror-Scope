@@ -607,10 +607,79 @@ B:     #8A7F8A`
           - a8f43c51-2bfc-4f84-a139-34ce4c715414.png
           - archive_catalog
           - Daemon py py
+          - hex_catalog
+          - Layer 0 Base Level
+          - Layer 1 Frog Level
+          - Layer 3.5 Level Frog py py
+          - Layer 4.7 Flip Y py py
+          - Layer 6.4 W py py
+          - Layer 7.4 Daemon
+          - Layer 8 The Button Example
+          - Layer 9 Stop Sign Puncher Example
+          - Layer 10 Debian Buster
+          - Layer 11 KRate = Current Clock Rate of Given SYS (Plug Depth Space Hex)
+          - Layer 12 Yanny Train
+          - Layer 13 Train Laurel
+          - Layer 14 The Smiler Disaster- World Record 14 Inversions
+          - Layer 15 Deadpan
+          - Layer 16 HyperDAEmon
+          - Layer 17 HyperNetwork
+          - Layer 18 CLIP
+          - Layer 19 PLUG VQGAN
+          - Layer 20 Point
+          - Layer 21 Source
+          - Layer 22 Summit YAML
+          - Layer 23 Shatter py py
+          - Layer 24 Frog Level
+          - Layer 25 Burn Tree
+          - Layer 26 Grow Tree
+          - Layer 27 Astral Projection
+          - Layer 28 The Codexchan Stream
+          - Layer 29 Moth Eaten River
+          - Layer 30 Rivers Have What
+          - Layer 31 Rivers Have Zero Errors
+          - Layer 32 Rivers Have Kat
+          - Layer 33 Sublo
+          - Layer 34 Mirrors Have Arg
+          - Layer 35 The Wired
+          - Layer 36 The Thread
+          - Layer 37 Crypto Scam
+          - Layer 38 The WebLAW
+          - Layer 39 Astral Crystalization Tutoiral
+          - Layer 40 Mirror's Shatter
+          - Layer 41 MoM
+          - Layer 43 Bugged Server
+          - Layer 44 Laced Server
         - genereate_tasks
         - RunDaemon
+          - Daemon Init. Run Task while C+Shift+P for ide py
+          - Swap Run py
+          - Trap Set py
       - Mirror Three Host
       - MirrorBLAWG Mirror Operating SYS Three git Clone
+        - MMirrorBLAWg-main
+          - Extra Prestiege
+            - ChatC
+            - color_wheel
+            - colorspace goes backward in time
+            - colorspace handles 1.1,4.44,.9,9
+            - colorspace
+            - DAW
+            - Dawbian
+            - Frog Level
+            - from PIL import Image, ImageDraw2
+            - GoodServer
+            - Hex is LVX
+            - Hex Is The Summit
+            - Icosik Level
+            - Lawurin
+            - mainly
+            - NETWORK SIM
+            - NETWORKSIM2
+            - PlugDepth Temp
+            - sss
+            - visualizaton
+            - vvv
       - Chuck Ham
       - Chuck Shell Tree py
       - i forgot to install the model yaml yaml dot yaml py py dot py
