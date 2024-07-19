@@ -128,3 +128,24 @@ Audicle{Claude#FF4700}>> >>In the beginning | {} | There Was | Rhythm | And The 
 =Braid{Audicle{Ribbon#00FF00}~+Node{Voice}>> >>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . | D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . | E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 | A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||=Braid{Beux#00FF00}&>> >>Cmaj || Amin || Gmaj || Cmin || G6maj || Amin || Cmaj || Cmin}
 
 heres an example. the main caveat is we just get the bpm and timeline info from the daw and calculate where the spoken words are compared to the note lengths from that. currently the only daw that supports calculating this for you is my daw mirror which is still very early in development and i havent implemented any of these kind of interpreters or calculations or anything really yet
+you brought up a good edge case I didnt really explain
+
+This example basically shows one 'clip' you can think of it kind of like a midi clip with multiple layers for each channel. so like many midi clips inside of a midi clip. but its not actually midi cause midi cant do all this, its a new kind of midi called mida. 
+Audicle{Claude#FF4700}>> >>In the beginning | {} | There Was | Rhythm | And The Rhythm Was Good || =Braid{Stamp#FF4700}>> >> 1.5+2 | {}+.5 | {<6}+2 | 9+1 | 13+3 || =Braid{Audicle{Ribbon#00FF00}~+Node{Voice}>> >>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . | D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . | E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 | A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||=Braid{Beux#00FF00}&>> >>Cmaj || Amin || Gmaj || Cmin || G6maj || Amin || Cmaj || Cmin}
+
+so this is one mida clip, which is why it doesnt matter that the musical content has differant color codes from the other one. infact you dont need the color codes at all since their in the same clip and braided
+
+Audicle{Claude}>> >>In the beginning | {} | There Was | Rhythm | And The Rhythm Was Good || =Braid{Stamp}>> >> 1.5+2 | {}+.5 | {<6}+2 | 9+1 | 13+3 || =Braid{Audicle{Ribbon}~+Node{Voice}>> >>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . | D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . | E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 | A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||=Braid{Beux}&>> >>Cmaj || Amin || Gmaj || Cmin || G6maj || Amin || Cmaj || Cmin}
+
+now say I wanted these all to be linked but in diff mida clips
+id probably do something like this
+
+Audicle#00FFAF{Claude}>> >>In the beginning | {} | There Was | Rhythm | And The Rhythm Was Good || 
+
+Audicle#00FFAF{Stamp}>> >> 1.5+2 | {}+.5 | {<6}+2 | 9+1 | 13+3 || 
+
+Audicle#00FFAF{Ribbon}>> >>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . | D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . | E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 | A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||
+
+Audicle#00FFAF{Beux}&>> >>Cmaj || Amin || Gmaj || Cmin || G6maj || Amin || Cmaj || Cmin}
+
+If you notice now i have to tag the actual audicles and not the functions in the curly braces since theyre all in differant daw tracks/ mida clips
