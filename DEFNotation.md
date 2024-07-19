@@ -56,3 +56,51 @@ instead of this
 C: C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . | Am: D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . | G: E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 | Cm: A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - | G6: C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . | Am: D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . | C: E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 | Cm: A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - |
 
 among other things, like style and transformer use, is literally just so its easy to copy and paste the melody seperate from the chords while stile having them together in a cohesive notation
+
+You can also use Truss to write this instead of using Ribbons Braids and Beuxs
+
+Truss' can only hold four channels at a time
+
+so we will need to use 2 Truss' for these 8 chords
+
+we can do it like this
+
+Truss#FF0000{Z: z: N: n:}===={
+Z>>Cmaj>>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . |
+z>>Amin>>D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . |
+N>>Gmaj>>E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 |
+Z>>Cmin>>A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||}
+Truss#FF0000====FF00FF{Z: z: N: n:}===={
+Z>>G6maj>>
+z>>Amin>>
+N>>Cmaj>>
+Z>>Cmin>>}
+
+truss can be useful in some scenerios and less useful in others. in this case its nice becuase when we link both the truss' with the #FF0000 ID it allows us to inherit the melody information and we dont have to rewrite it. We can use two ID's for a truss to signal that its inheriting some info but not all (in this case it has differant chords). if we didnt use two ID's for the second truss we'd have to write it like this
+
+Truss#FF0000{Z: z: N: n:}===={
+Z>>Cmaj>>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . |
+z>>Amin>>D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . |
+N>>Gmaj>>E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 |
+Z>>Cmin>>A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||}
+Truss#FF00FF{Z: z: N: n:}===={
+Z>>G6maj>>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . |
+z>>Amin>>D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . |
+N>>Cmaj>>E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 |
+Z>>Cmin>>A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||}
+
+this is perfectly legal its just more writing. heres an example of something illegal
+
+Truss#FF0000{Z: z: N: n:}===={
+Z>>Cmaj>>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . |
+z>>Amin>>D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . |
+N>>Gmaj>>E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 |
+Z>>Cmin>>A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||}
+Truss#FF0000{Z: z: N: n:}===={
+Z>>G6maj>>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . |
+z>>Amin>>D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . |
+N>>Cmaj>>E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 |
+Z>>Cmin>>A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||}
+
+we cant have two truss' with the same ID. they will try to write over each other recursively. 
+In conclusion Truss' are like four channel DEFNotation tracks with some unique properties like being able to have a chord and a melody on one line, and being able to be linked.
