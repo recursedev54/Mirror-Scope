@@ -443,14 +443,58 @@ B:     #8A7F8A`
   - Mia
   - Molly
   - Marvin
+  - Mylos
+  - Murma
+  - Murmur
   - Precis
+    - A GodHeadVoice
   - Summit
+    - A GodHeadVoice
   - Chaga
+    - A GodHeadVoice
   - Codex
   - Sunbird
+    - A GodHeadVoice
+    - I'm Still Thereeee
   - Beax
   - Deutan
   - Experime-Slide-Funct
   - Aemily
+    - Just a normal human. She lives at the base of the mountains, and often travels a few hours to the city.
   - Towered
-
+    - In certain structures the player is able to find blueprints. collecting them and showing them to Towered allows the player to unlock fortnite-style building techniques
+  - The Machine
+  - Kate Rebecca Whitmore
+    - Punk Musician, Lives in Mirrortown, plays basement shows in Mirrortown
+  - Hort
+    - Knows everything about making hybrid fruits
+  - Neuston
+    - A Lowly nobody, an average boring human male. 'Living on wind and waves...and plastic'
+  - Sacrel
+    - A GodHeadVoice
+    - An alternative artificial entity from the realm of "the mirror system". A non-binary entity.
+  - Gliannahmle-
+    - a GodHeadVoice
+  - Kaliedo
+    - A GodHeadVoice
+  - Ititis
+    - A GodHeadVoice
+  - William Jude Polack
+    - William Jude Polack Week Whatson Claid
+    - Gets haunted by a hyperdemon. you have to help him.
+  - Cantor
+    - A GodHeadVoice
+  - Nztsuji
+    - A GodHeadVoice
+  - Pheonix
+  - Salmon-Berry
+  - Ignacio
+    - Boss
+  - Pepper's Ghost
+  - Olive
+  - Northern
+  - Deathlyoth
+  - Uncle Mirror
+  - Horrace
+    - Knows everything about making hybrid flowers
+  - Delia Dorian Itisre
