@@ -25,7 +25,11 @@
 19. Ui customization mode where you can change every color of every element and default color of tracks 1-18
 20. Each track glows or glimmers it’s color
 21. Pocket sampler allows you to easily resample audio and from around the daw 
-
+- # Tape Workflow
+  - In Mirror, the tape workflow is facilitated by several key features that work together to emulate the flexibility of analog tape recording in a digital environment. The DAW allows for multiple timelines, with the added ability to clone or 'Mirror' these timelines. Users can swiftly switch between timelines using arrow keys, providing a more immediate and intuitive navigation than traditional tab-based interfaces.
+Mirror incorporates a powerful file loading system that enables users to load entire projects, individual stems, audio, and data elements. This allows for granular control over which parts of a project are brought into a new timeline.
+A standout feature is the baked-in tape emulation on each track's preamp, controllable from the stereo bus. This approach provides authentic tape harmonics for each individual track, offering a faithful emulation of tape sound that goes beyond applying effects to the master bus.
+The DAW also offers single-knob controls for global MIDI transposition, playback speed adjustment, and pitch shifting of audio. These features allow for quick experimentation with key and tempo, essential to the tape workflow concept. Tape workflow also allows you to record midi instruments and plugins directly onto the track itself, without sending through a bus to another track.
 - # Ai enhanced
   - Who are the Ai in the daw?
     - Dawbreii
