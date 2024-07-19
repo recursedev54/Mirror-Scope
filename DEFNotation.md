@@ -1,3 +1,80 @@
+# DEF Notation Guide
+
+DEF (Duration Encoded Format) Notation is a system for representing musical information in a text-based format. It's designed to be simple, flexible, and machine-readable while still being human-interpretable.
+
+## Basic Principles
+
+1. Each symbol represents a 16th note duration.
+2. Notes are represented by their pitch name and octave (e.g., C#4).
+3. Sustained notes are represented by '-'.
+4. Rests are represented by '.'.
+5. Measures are separated by '|'.
+
+## Writing Notes
+
+- Use standard pitch names: C, C#, D, D#, E, F, F#, G, G#, A, A#, B
+- Follow the pitch name with the octave number (e.g., C4 for middle C)
+- For flats, use the equivalent sharp (e.g., Db4 would be written as C#4)
+
+Example: `C#4 E4 G#4 B4`
+
+## Duration
+
+- Each note, rest, or sustain symbol represents a 16th note
+- For longer durations, use multiple symbols
+  - Eighth note: Two symbols (e.g., `C4 -`)
+  - Quarter note: Four symbols (e.g., `C4 - - -`)
+  - Half note: Eight symbols (e.g., `C4 - - - - - - -`)
+
+## Rests
+
+- Use '.' for a 16th note rest
+- Multiple '.' for longer rests
+
+Example: `C4 . . . D4` (C quarter note, 16th rest, D 16th note)
+
+## Measures
+
+- Use '|' to separate measures
+- Typically, there are 16 symbols per measure in 4/4 time
+
+Example: `C4 - - - D4 - - - E4 - - - F4 - - - |`
+
+## Chords
+
+- Write notes of a chord vertically aligned or separated by commas
+- Example: `C4,E4,G4` or
+  ```
+  C4
+  E4
+  G4
+  ```
+
+## Example
+
+Here's an example of a simple melody in DEF notation:
+
+```
+C4 - D4 - E4 - F4 - | G4 - - - A4 - B4 - | C5 - - - . . . . |
+```
+
+This represents:
+- C quarter note, D quarter note, E quarter note, F quarter note
+- G half note, A quarter note, B quarter note
+- C whole note, followed by a quarter note rest
+
+## Advanced Usage
+
+- For more complex rhythms, combine notes and rests as needed
+- Time signatures other than 4/4 can be represented by adjusting the number of symbols per measure
+
+## Metadata
+
+- Use a separate .DEFNH (DEF Notation Header) file for song metadata
+- Include information like title, artist, key, tempo, etc.
+
+#### Remember, DEF notation is designed to be flexible. The core principle is representing duration through the number of symbols, making it adaptable to various musical styles and structures.
+
 this is just for my own enjoyment but theres a few ways to write this in DEF notation.
 
 # DEF Notation - Commands
