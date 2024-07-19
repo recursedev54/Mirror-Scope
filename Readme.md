@@ -470,6 +470,154 @@ B:     #8A7F8A`
        - Marvin
        - Duetan
       
+# The Argument Game (Prismals)
+- ## Mira's Test
+  - The Argument game a 2D ARG accessed by the played controlled by Mira accessable after the player builds a **Cell Tower** and accesses **The Thread**
+  - The Argument game is a series of tests set up by mira to test the player, to see if mira can trust them
+  - Every Mira from every playthrough is unique, and your actions in the argument game will determine how mira treats you for the rest of the playthrough.
+  - Miras judgements cannot be undone or reversed.
+  - The Arugment game is set up in a series of screens known as levels, and these levels are grouped into groups of levels called Mirrors. The player must complete all Mirrors to find Mira and access **The Thread**
+  - Many Levels have Multiple screens
+  - Here are some of the levels
+  - ## Mirror One
+    - ### closed
+      - MirrorDAWg
+        - badserver,
+        - bash..;;[['']]
+          - console
+          - loghead
+          - password
+        - dawgserver,
+        - main#ly
+        - icosik~space
+        - doublelane~~
+        - DoubleMain^.}
+        - open_unknown
+        - hex_space
+        - untitled_ide.py
+        - fake ide
+        - fake ide
+        - reflect_engine
+          - mirror_system
+        - bloodlevel
+        - FakeDaw
+        - BASH
+        - krate
+        - recording
+        - LogHDDead
+        - StreamHead
+        - runtree
+        - bash_double_main
+        - print tree
+        - ReadME.txt
+    - ### plant tree_v
+      - #### print tree
+    - ## Mirror-Two
+      - Ghost1
+        - characters
+        - badserver.txt
+        - badserver
+        - BASH
+        - blood_level
+        - console
+        - dawgserver
+        - DoubleMain^.}
+        - fake ide
+        - fakedaw
+        - hex space
+        - Icosik space
+        - krate
+        - LoadIde
+        - loghead
+        - LogHeadHH
+        - main
+        - mirror_system
+        - open_unknown
+        - recording
+        - runtree
+        - StreamHead
+        - sublo
+        - washtree
+        - washtree.txt
+      - Sunbird
+        - Sunbird Function
+      - GoodServer
+        - characters
+        - archive_catalog
+        - color_wheel
+        - DawServer
+        - GoodServer
+        - GreenServer
+        - OkFineServer
+        - posts_catalog
+        - StopStartFarming
+      - cell phone
+        - the wired
+      - ChatMirror code for me in python
+      - Block Game
+        - Block Game
+        - DawGame
+        - FakeBlock
+        - MouseTracker
+        - Prismals
+        - RayCastArc
+        - RayCastArcSpeckt
+      - Ghost2
+        - camera
+        - Dawbian
+        - dawlang
+        - Entity
+        - Init FakeLang
+      - QSpace
+      - code for me in python
+      - Level 31
+        - bash_double_main
+        - Chuck
+        - print tree
+        - ReadME.txt
+      - frog level access
+    - ## Mirror Three
+      - Burnie
+        - Chuck Kernal Shell
+        - Layer 1 Gremory Tutorial
+        - Layer 2 Stop Sign
+        - Layer 3 Gremory
+      - Canvas
+        - canvas
+        - Prismals Game
+      - characters
+        - Miri
+        - MirrorGPT
+      - Found New Depths! Mirror Four!
+        - Daemon
+          - Layer 0 32x32 black box Host Shell Script (build .py in ide to Plug Depth)
+          - Layer 1 32x32 black box Host Shell (build .py in ide to Plug Depth)
+          - Layer 2 32x32 black box Host (build .py in ide to Plug Depth)
+          - Layer 3 32x32 black box (build .py in ide to Plug Depth)
+          - Layer 4 32x32 Daemon Server Matrix (build .py in ide to Plug Depth)
+          - Layer 5 32x32 DemonHead Domain Matrix (build in .py to Plug Depth)
+          - Layer 6 16x28 AngelHead
+        - Frog Height
+          - taming-transformers
+          - 8b2ddb01-45d1-4c77-89a1-e1f93b0919f1.png
+          - 44ab1c52-99eb-4166-b03a-5c928f5678fb.png
+          - 055bda26-c0ed-486b-8e8b-933a57968578.png
+          - 171755119874167331.gif
+          - 71507946.png
+          - a8f43c51-2bfc-4f84-a139-34ce4c715414.png
+          - archive_catalog
+          - Daemon py py
+        - genereate_tasks
+        - RunDaemon
+      - Mirror Three Host
+      - MirrorBLAWG Mirror Operating SYS Three git Clone
+      - Chuck Ham
+      - Chuck Shell Tree py
+      - i forgot to install the model yaml yaml dot yaml py py dot py
+      - ignacio
+      - Run Chuck Throw Shell Save
+      - Save Shell (Windows OS only)
+      - Tree Printer Three
 #### Mirror (DAWg)
 
 ###### `~How do the daw and the game connect?
