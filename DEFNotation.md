@@ -20,6 +20,8 @@ Ribbon
 
 Beux
 
+Stamp
+
 these werent in the readme i sent but they are parts of the notation. the notation system is a bit weird compared to normal notation systems because it assumes you have a transformer llm able to use these commands lol.
 
 so for this 
