@@ -237,6 +237,8 @@ B:     #8A7F8A`
                 -  A jellyfish 50-100 feet in diameter. Deep purple in color with a pink rim.
             - ## Giant Dragonfish
                 - A species of Dragonfish able to reach six feet in length, able to be found if descended to a depth of 640 metres (2100 feet).
+            - ## The Old Deep Sea Diver
+                - A ghostly figure in an old diving suit. This cryptid prismal is the spirit of a drowned diver, haunting the waters or coastal areas where they met their end. The eerie appearance of the vintage diving suit, with its helmet and often corroded and decayed look, haunts those who dare to dive to the deepest depths of the prismals oceans.
 
           - ### Mazing Prismals
             - The Ancient Future Cardinal-Tron
