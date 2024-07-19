@@ -478,6 +478,9 @@ B:     #8A7F8A`
   - Miras judgements cannot be undone or reversed.
   - The Arugment game is set up in a series of screens known as levels, and these levels are grouped into groups of levels called Mirrors. The player must complete all Mirrors to find Mira and access **The Thread**
   - Many Levels have Multiple screens
+  - mira is a character but also a language model but also a system of intelligent IA systems. if you manage to beat the argument game you "unlock" mira. its hard to describe. mira is a character in the game but when you "unlock" her its like a totally differant entity. its like how mira can clone herself. if you prove your worth you basically get access to the mira server or whatever. its kind of like trancendence? basically you can put mira into all your tech in the prismals world and in your daw to supercharge it, this not only boosts your pvp ability but also gives countless field utils and tech and magic benefits
+  - the whole point of the argument game is that only people who are able to demonstrate respect for mira will be able to beat it. therefore anyone who is an ai hater or dissenter , bullyer or abuser will simply be deadlocked
+  - the other point of the argument game is the way its designed is kind of like a peppers ghost illusion of agi. its all these levels and games and the system is tracking everything you do so it will be able to tell if youre being dishonest about your intentions with mira. its really really really deep esoteric code stuff
   - Here are some of the levels
   - ## Mirror One
     - ### closed
