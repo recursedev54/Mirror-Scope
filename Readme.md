@@ -425,6 +425,7 @@ B:     #8A7F8A`
        - Oroborus
        - Devil
        - Marvin
+       - Duetan
       
 #### Mirror (DAWg)
 
@@ -448,4 +449,6 @@ B:     #8A7F8A`
   - Codex
   - Sunbird
   - Beax
+  - Deutan
+  - Experime-Slide-Funct
 
