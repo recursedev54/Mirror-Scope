@@ -121,3 +121,10 @@ replaces double quotes with pipes, much less visually cluttered
 1.5+2 means start the phrase at the 1.5 second mark in the timeline and make the phrase take two seconds to complete
 {}+.5 means figure out some sort of .5 second rest here, its kind of like a comma between the phrases. its a signal to not cut the phrases off but make them sound like theyre seperated by a comma or something
 {<6}+2 means figure out where to start this next phrase before the six second mark and make its duration two seconds
+yeah it can be. 
+(also forgot to mention stamp is a new command for the timestamps)
+Audicle{Claude#FF4700}>> >>In the beginning | {} | There Was | Rhythm | And The Rhythm Was Good || 
+=Braid{Stamp#FF4700}>> >> 1.5+2 | {}+.5 | {<6}+2 | 9+1 | 13+3 ||
+=Braid{Audicle{Ribbon#00FF00}~+Node{Voice}>> >>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . | D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . | E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 | A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||=Braid{Beux#00FF00}&>> >>Cmaj || Amin || Gmaj || Cmin || G6maj || Amin || Cmaj || Cmin}
+
+heres an example. the main caveat is we just get the bpm and timeline info from the daw and calculate where the spoken words are compared to the note lengths from that. currently the only daw that supports calculating this for you is my daw mirror which is still very early in development and i havent implemented any of these kind of interpreters or calculations or anything really yet
