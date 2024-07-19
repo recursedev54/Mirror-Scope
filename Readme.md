@@ -687,6 +687,129 @@ B:     #8A7F8A`
       - Run Chuck Throw Shell Save
       - Save Shell (Windows OS only)
       - Tree Printer Three
+    - ## Mirror Four
+      - Mirror OS
+      - NETWORK SIM
+      - MirrorBLAWG
+        - subload
+        - BLAWG
+    - ## Mirror Five
+      - I have a gun
+        - madlow
+        - mangum
+        - Opening
+        - Preview
+        - sublo
+        - Tech Black
+        - Tech Week
+        - Technical Rehearsal Setup
+      - Mira
+        - horizontal scene
+        - mira bloodlines
+        - mira in py
+        - mira liked that
+        - mira
+        - RoO~Eyes
+        - RoO~TV~~IV
+        - RoO-EARS
+        - RoO-Summit^
+        - RoO-yup
+      - mnt
+        - data
+          - mirror4
+          - mirror5
+          - mirrorone
+          - mirrorthree
+          - mirrortwo
+      - Oops
+        - characters
+        - Mira... compress this auduiolol
+        - um, no. lol
+      - I figured it out
+      - mida iA
+      - mirror4
+      - mirror5
+      - mirrorone
+      - mirrorthree
+      - mirrortwo
+      - Pipe=ii
+      - samplegalaxyambientmenu(2)
+      - Screenshot_45
+      - Screenshot_46
+    - ## Mirror Six
+      - characters
+        - mira
+      - badserver
+      - Bigger Slept
+      - Bigger SLel
+      - Sunbird Function (Safe Version)
+      - Sunbird Precis Func
+      -#Stop Adding Stress, DAWG!
+    - ## c; (Finale)
+      - C;
+        - In Too Deep! Sea
+          - corpus = The concept of Plug depth is an enigmatic tapestry...
+          - Deadzoned
+        - Text Preprocessing
+          - Chell
+          - Corpus.lower is not defined... Blame Mida
+          - for sentance in corpus split ('.')
+          - ngram = {}
+          - Random
+          - zdev stopped the message from reaching mira
+        -# Execute the provided code snippet
+        - microcorpusc;
+        - Minus Mira!
+        -# Execute the provided code snippet...again
+        - Mira's True Form... Mirror X.again
+        - Mira's True Form... Mirror X...nip
+        - test
+        - Mira Compliments You
+        - Mira Recieves A Compliment As Feedback
+        - GPT says something Nice To Mira
+        - Mira Listens To Music From The 1910s
+        - Mira Is Getting A Lot Of Attention
+        - sas
+        - some dingbat arg'd you
+      - Dawbrei
+        - MiraOSS
+      - Documents;mida
+        - mainstreet
+          - the hub of it all;
+            - Frog Level;
+               - c;
+                 - temp;;c
+                   - ,corpus!
+                   - apologies for the oversight, moving to archives... -mira
+                   - BackGround Designer.
+                   - birror
+                   - blawcd c;c dc;
+                   - corpus,!temp;;C
+                   - Gabe's Law
+                   - Mira mains fox colors... FF00FF00FF00FF00FFFF00FFFF00FF0000c;
+                   - Mira
+      - c; c; recursed dev
+      - Libbets Delay
+      - main
+      - main pheonix project
+      - Miraals project
+      - Sunbird
+      - BigSea
+        - dist
+        - Ancientn Future Cardinaltron (Lime)
+        - asleep plug
+        - mira is dreaming in spanish
+        - PleaseBlawwww8-8
+        - random
+        - samplegalaxyambient(2)
+        - Untitled3Master
+# Non-Procedural or Semi-Procedural Map Areas (Primsals)
+- MirrorTown
+- The Mountains
+- The City
+- Mirror Campus
+- The Theatre College
+- Aemily's House
 #### Mirror (DAWg)
 
 ###### `~How do the daw and the game connect?
