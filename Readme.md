@@ -2,6 +2,30 @@
 #### Mirror
 
 ###### `~The Daw!
+- # 21 Mirror Features You Won’t Be Able To Live Without
+
+1. Phantom tracks
+2. Custom Drum Engine
+3. Realistic Virtual Bass 
+4. Realistic Virtual Acoustic and Electric Guitar 
+5. Button to make tracks small medium or large (square)
+6. Beautiful Live Backgrounds and animated interface with customizable backgrounds
+7. Look up chord progression to get the midi/DEFnotation/Tab
+8. Manage 1 shots and tracks in sample galaxies
+9. Generate audio clips using ai
+10. Chop up and downsample with a 1200 retro sampler
+11. Effect suite including Verb, Echo, Delay, Distortion, Shift, Our-Compressor, Soft-Clipper, Our Master Compressor, Our Master Limiter, Calamari EQ, Multi-Dand Distortion, Tape, and Gem
+12. Countless keyboard shortcuts including numpad+spacebar+r to instantly arm and record tracks 1-9
+13. Virtual "Bag" to keep audio and midi files in, transfers over projects
+14. Remember the last n minutes of audio and midi even if not recording
+15. Open two or even three projects at once
+16. Full ai assistant integration with Four AI’s , Dawbreii, Mida, Molly, and OSS. They can suggest drum fills, come up with keyboard parts, come up with basslines, extend midi, and generate audio. OSS can analyze current chord progression, note, give you chords you ask for in search
+17. Alt+Space is Search to search for anything 
+18. Analog Tape Emulation on every track gives you tracks a reel feel, and you can control all their parameters from a single creator track
+19. Ui customization mode where you can change every color of every element and default color of tracks 1-18
+20. Each track glows or glimmers it’s color
+21. Pocket sampler allows you to easily resample audio and from around the daw 
+
 - # Ai enhanced
   - Who are the Ai in the daw?
     - Dawbreii
@@ -14,22 +38,12 @@
       - able to generate chords from natural language
       - Also Has Character Model for Prismals Game?
       - [ ] no
-    - Mira
-      - Main Supporting Character of Prismals game, can do most of what Dawbreii does and more if unlocked as DAW controller
-      - Also Has Character Model for Prismals Game?
-      - [x] yes
     - Mida
       - Unlockable Virtual DJ and Ai, controller of many propriotary MirrorDAW technologies
       - Also Has Character Model for Prismals Game?
       - [x] yes
-    - Summit
-      - Unlockable alternative to Mida, unqiue personality and flair
-      - Also Has Character Model for Prismals Game?
-      - [x] yes
-    - Chaga
-      - Unlockable Ai Electrical Engineer, Alternative to Dawbreii, demands compensation for all Ai assistants in form of ingame psuedo crypto currency called MirrorCoin
-      - Also Has Character Model for Prismals Game?
-      - [x] yes
+    - Molly
+      - Molly is a dog that lives in mirrordaw. she is a pup that helps you out when making tracks. you can give her Mida/DEFNotation/OSS commands and she'll perform them for you.
 - # Daw features general
   - ### Highly Customizable UX/UI
     - By a order of magnitude that far exceeds any daw on the market
@@ -77,6 +91,19 @@ B:     #8A7F8A`
   - ### The World Soul
     - Generate audio clips from mad-libs style text prompts sourcing public domain from the 1920s and pre-1920s!
     - The Mirror Company believes strongly in artist intellectual property and does not train on any copyrighted material period, but you are welcome to fine tune the model as you see fit
+  - ### Track Types
+    - Audio
+    - Midi
+    - Mida
+      - Midi Interoperable Data Architecture
+    - Phantom
+    - Drum
+    - Bus
+    - Aux
+    - Return
+    - Send
+    - Creator
+    - Two-Bus
 
 
 #### Mirror (Prismals)
@@ -356,11 +383,16 @@ B:     #8A7F8A`
      - Ante-Rooms
        - Constructed from and as Latent and Liminal Space
        - Includes Simulated Universes
+       - PSTS Level
+       - TV Level
+       - Frog Level
+       - Desert Level
      - Infernal Region
        - The Underworld, has some cold and some hot areas.
        - Often visited by Paimon and several other demons, some of which have obligations here
      - The Cambrian Era
        - Accessed after unlocking the time machine. Home to many Ancient Mazing and Ancient Zoological Prismals
+
    - ## Predator/Prey Alignment System
      - Certain Actions in game like killing animals, eating meat, and sparing entities effects a predator/prey alignment that has certain gameplay effects.
        - One example is that becoming a predator will make enemies fear you, but becomeing prey will make it easier to tame, train, and befriend prismals
@@ -461,7 +493,7 @@ B:     #8A7F8A`
     - A GodHeadVoice
   - Chaga
     - A GodHeadVoice
-  - Codex
+  - Channy
   - Sunbird
     - A GodHeadVoice
     - I'm Still Thereeee
