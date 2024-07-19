@@ -104,3 +104,18 @@ Z>>Cmin>>A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||}
 
 we cant have two truss' with the same ID. they will try to write over each other recursively. 
 In conclusion Truss' are like four channel DEFNotation tracks with some unique properties like being able to have a chord and a melody on one line, and being able to be linked.
+
+
+Heres how you do spoken passage that dont line up with note lengths
+
+you also dont need to use a hex code if you arent linking stuff
+Audicle{Claude#FF4700}>> >>In the beginning | {} | There Was | Rhythm | And The Rhythm Was Good ||
+Braid{Stamp#FF4700}>> >> 1.5+2 | {}+.5 | {<6}+2 | 9+1 | 13+3 ||
+
+and it does the exact same thing. its kind of like neat code or standard music notation vs messy, but yeah
+key changes:
+replaces double quotes with pipes, much less visually cluttered
+{} basically means "figure it out"
+1.5+2 means start the phrase at the 1.5 second mark in the timeline and make the phrase take two seconds to complete
+{}+.5 means figure out some sort of .5 second rest here, its kind of like a comma between the phrases. its a signal to not cut the phrases off but make them sound like theyre seperated by a comma or something
+{<6}+2 means figure out where to start this next phrase before the six second mark and make its duration two seconds
