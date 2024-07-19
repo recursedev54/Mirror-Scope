@@ -238,6 +238,8 @@ B:     #8A7F8A`
             - Aeocazzegiroth
               - Evolution of Anomolomatnus, much bigger and heavier and slower, but with hardened neodynium plated skin and magnetic replulsion and propulsion abilities
           - ### Zoological Prismals
+            - White-Tail Deer
+              - Can also be skinwalker in disguise, in which case it may stand on its hind legs and walk or charge at you to scare you.
             - Vaquita
             - Sunfish
             - Vampire Squid
