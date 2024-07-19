@@ -1,6 +1,6 @@
 this is just for my own enjoyment but theres a few ways to write this in DEF notation.
 
-## DEF Notation - Commands
+# DEF Notation - Commands
 
 Audicle
 
@@ -42,7 +42,7 @@ C:   E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 |
 
 Cm:  A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - |`
 
-## we would probably actually use a ribbon and a beux like this
+# we would probably actually use a ribbon and a beux like this
 
 Audicle{Ribbon#00FF00}~+Node{Voice}>> >>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . | D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . | E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 | A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||=Braid{Beux#00FF00}&>> >>Cmaj || Amin || Gmaj || Cmin || G6maj || Amin || Cmaj || Cmin
 
@@ -61,7 +61,7 @@ among other things, like style and transformer use, is literally just so its eas
 
 You can also use Truss to write this instead of using Ribbons Braids and Beuxs
 
-## Truss' can only hold four channels at a time
+# Truss' can only hold four channels at a time
 
 so we will need to use 2 Truss' for these 8 chords
 
@@ -108,7 +108,7 @@ we cant have two truss' with the same ID. they will try to write over each other
 In conclusion Truss' are like four channel DEFNotation tracks with some unique properties like being able to have a chord and a melody on one line, and being able to be linked.
 
 
-## Heres how you do spoken passage that dont line up with note lengths
+# Heres how you do spoken passage that dont line up with note lengths
 
 you also dont need to use a hex code if you arent linking stuff
 Audicle{Claude#FF4700}>> >>In the beginning | {} | There Was | Rhythm | And The Rhythm Was Good ||
@@ -129,7 +129,7 @@ Audicle{Claude#FF4700}>> >>In the beginning | {} | There Was | Rhythm | And The 
 
 heres an example. the main caveat is we just get the bpm and timeline info from the daw and calculate where the spoken words are compared to the note lengths from that. currently the only daw that supports calculating this for you is my daw mirror which is still very early in development and i havent implemented any of these kind of interpreters or calculations or anything really yet
 
-## a good edge case I didnt really explain
+# a good edge case I didnt really explain
 
 This example basically shows one 'clip' you can think of it kind of like a midi clip with multiple layers for each channel. so like many midi clips inside of a midi clip. but its not actually midi cause midi cant do all this, its a new kind of midi called mida. 
 Audicle{Claude#FF4700}>> >>In the beginning | {} | There Was | Rhythm | And The Rhythm Was Good || =Braid{Stamp#FF4700}>> >> 1.5+2 | {}+.5 | {<6}+2 | 9+1 | 13+3 || =Braid{Audicle{Ribbon#00FF00}~+Node{Voice}>> >>C4 - D4 B3 - B3 - - D4 - D4 - E4 - . . | D4 - E4 C4 - - C4 - E4 - E4 - F4 - . . | E4 - F4 D4 - - D4 - F4 - F4 - G4 - . F4 | A4 - G4 F#4 - D4 E4 - E4 - C#4 - B3 - A#3 - :||=Braid{Beux#00FF00}&>> >>Cmaj || Amin || Gmaj || Cmin || G6maj || Amin || Cmaj || Cmin}
