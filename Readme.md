@@ -54,6 +54,7 @@
     - Node
     - Truss
     - Ribbon
+    - Beux
   - ### Rainbow Piano Roll
     - Finally you don't have to settle for just one color for each of your midi clips. Rainbow midi means you're easily able to tell which note is which. You can make each note of the chromatic scale whatever you want, but these are the defaults
     - `C:     #4E6E82
