@@ -254,6 +254,8 @@ B:     #8A7F8A`
             - Sea Bass
             - Lobster
             - Harbor Seal
+            - Sturgeon
+            - Aligator Gar
           - ### Ancient Zoological Prismals
             - Plesiosaur
             - Kronosaur
