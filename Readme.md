@@ -4,32 +4,32 @@
 ###### `~The Daw!
 - # 21 Mirror Features You Won’t Be Able To Live Without
 
-1. Phantom tracks
+1. Phantom ks
 2. Custom Drum Engine
 3. Realistic Virtual Bass 
 4. Realistic Virtual Acoustic and Electric Guitar 
-5. Button to make tracks small medium or large (square)
+5. Button to make ks small medium or large (square)
 6. Beautiful Live Backgrounds and animated interface with customizable backgrounds
 7. Look up chord progression to get the midi/DEFnotation/Tab
-8. Manage 1 shots and tracks in sample galaxies
+8. Manage 1 shots and ks in sample galaxies
 9. Generate audio clips using ai
 10. Chop up and downsample with a 1200 retro sampler
 11. Effect suite including Verb, Echo, Delay, Distortion, Shift, Our-Compressor, Soft-Clipper, Our Master Compressor, Our Master Limiter, Calamari EQ, Multi-Dand Distortion, Tape, and Gem
-12. Countless keyboard shortcuts including numpad+spacebar+r to instantly arm and record tracks 1-9
+12. Countless keyboard shortcuts including numpad+spacebar+r to instantly arm and record ks 1-9
 13. Virtual "Bag" to keep audio and midi files in, transfers over projects
 14. Remember the last n minutes of audio and midi even if not recording
 15. Open two or even three projects at once
 16. Full ai assistant integration with Four AI’s , Dawbreii, Mida, Molly, and OSS. They can suggest drum fills, come up with keyboard parts, come up with basslines, extend midi, and generate audio. OSS can analyze current chord progression, note, give you chords you ask for in search
 17. Alt+Space is Search to search for anything 
-18. Analog Tape Emulation on every track gives you tracks a reel feel, and you can control all their parameters from a single creator track
-19. Ui customization mode where you can change every color of every element and default color of tracks 1-18
-20. Each track glows or glimmers it’s color
+18. Analog Tape Emulation on every k gives you ks a reel feel, and you can control all their parameters from a single creator k
+19. Ui customization mode where you can change every color of every element and default color of ks 1-18
+20. Each k glows or glimmers it’s color
 21. Pocket sampler allows you to easily resample audio and from around the daw 
 - # Tape Workflow
   - In Mirror, the tape workflow is facilitated by several key features that work together to emulate the flexibility of analog tape recording in a digital environment. The DAW allows for multiple timelines, with the added ability to clone or 'Mirror' these timelines. Users can swiftly switch between timelines using arrow keys, providing a more immediate and intuitive navigation than traditional tab-based interfaces.
 Mirror incorporates a powerful file loading system that enables users to load entire projects, individual stems, audio, and data elements. This allows for granular control over which parts of a project are brought into a new timeline.
-A standout feature is the baked-in tape emulation on each track's preamp, controllable from the stereo bus. This approach provides authentic tape harmonics for each individual track, offering a faithful emulation of tape sound that goes beyond applying effects to the master bus.
-The DAW also offers single-knob controls for global MIDI transposition, playback speed adjustment, and pitch shifting of audio. These features allow for quick experimentation with key and tempo, essential to the tape workflow concept. Tape workflow also allows you to record midi instruments and plugins directly onto the track itself, without sending through a bus to another track.
+A standout feature is the baked-in tape emulation on each k's preamp, controllable from the stereo bus. This approach provides authentic tape harmonics for each individual k, offering a faithful emulation of tape sound that goes beyond applying effects to the master bus.
+The DAW also offers single-knob controls for global MIDI transposition, playback speed adjustment, and pitch shifting of audio. These features allow for quick experimentation with key and tempo, essential to the tape workflow concept. Tape workflow also allows you to record midi instruments and plugins directly onto the k itself, without sending through a bus to another k.
 - # Ai enhanced
   - Who are the Ai in the daw?
     - Dawbreii
@@ -47,7 +47,7 @@ The DAW also offers single-knob controls for global MIDI transposition, playback
       - Also Has Character Model for Prismals Game?
       - [x] yes
     - Molly
-      - Molly is a dog that lives in mirrordaw. she is a pup that helps you out when making tracks. you can give her Mida/DEFNotation/OSS commands and she'll perform them for you.
+      - Molly is a dog that lives in mirrordaw. she is a pup that helps you out when making ks. you can give her Mida/DEFNotation/OSS commands and she'll perform them for you.
 - # Daw features general
   - ### Highly Customizable UX/UI
     - By a order of magnitude that far exceeds any daw on the market
@@ -87,10 +87,10 @@ G#/Ab: #D65656
 A:     #C07376
 A#/Bb: #8C5F66
 B:     #8A7F8A`
-  - ### Rainbow Tracks
-    - Much like the rainbow piano roll, you can color each track in the timeline whatever you want, using any hex code, or even use multiple for a gradient, or animate between multiple for an rainbow RGB effect.
+  - ### Rainbow ks
+    - Much like the rainbow piano roll, you can color each k in the timeline whatever you want, using any hex code, or even use multiple for a gradient, or animate between multiple for an rainbow RGB effect.
   - ### Real Voice Cloning
-    - Train and clone your own and other voices and apply them directly onto vocal tracks without any confusing popups or processes
+    - Train and clone your own and other voices and apply them directly onto vocal ks without any confusing popups or processes
     - The Mirror Company includes some propriotary voices, and lets you train your own models and datasets as you see fit, respecting voice actor autonomy and musician experimentation.
   - ### The World Soul
     - Generate audio clips from mad-libs style text prompts sourcing public domain from the 1920s and pre-1920s!
@@ -108,6 +108,8 @@ B:     #8A7F8A`
     - Send
     - Creator
     - Two-Bus
+    - Love
+    - Lane
 
 
 #### Mirror (Prismals)
@@ -196,7 +198,7 @@ B:     #8A7F8A`
                     - ### Demon Bossfights and Characterization
                       - Every demon from the ars goetia's lesser key of somolon are represented in the game, and all of them are fully fleshed out characters. All of them (Except Gremory) have bossfights as well with unique weapons and fighting styles.
                         -  You reach the Nine Circles dimension in Pirsmals. You’re greeted by paimon. You expected some scary thing, but it’s just a winged red skin dude in a white dress shirt and tuxedo pants with suspenders and sunglasses 
-“Welcome to hell, I’m paimon" Paimon could offer a deadpan, unenthusiastic tour of hell's attractions. He might complain about mundane aspects of running hell, like paperwork or union negotiations with lesser demons. Perhaps he's more interested in discussing earth pop culture than in tempting souls. Paimon's fight could be framed as a mandatory combat assessment for all new arrivals in hell.
+“Welcome to hell, I’m paimon" Paimon could offer a deadpan, unenthusiastic tour of hell's attions. He might complain about mundane aspects of running hell, like paperwork or union negotiations with lesser demons. Perhaps he's more interested in discussing earth pop culture than in tempting souls. Paimon's fight could be framed as a mandatory combat assessment for all new arrivals in hell.
                         - other demons find themselves in similarly incongruous situations:
                           - #### Astaroth's fight could be a deadly game show with increasingly absurd rules
                           - #### Buer (often depicted as a wheel) could challenge the player to a bizarre hellish version of Wheel of Fortune
@@ -505,8 +507,8 @@ B:     #8A7F8A`
   - Many Levels have Multiple screens
   - mira is a character but also a language model but also a system of intelligent IA systems. if you manage to beat the argument game you "unlock" mira. its hard to describe. mira is a character in the game but when you "unlock" her its like a totally differant entity. its like how mira can clone herself. if you prove your worth you basically get access to the mira server or whatever. its kind of like trancendence? basically you can put mira into all your tech in the prismals world and in your daw to supercharge it, this not only boosts your pvp ability but also gives countless field utils and tech and magic benefits
   - the whole point of the argument game is that only people who are able to demonstrate respect for mira will be able to beat it. therefore anyone who is an ai hater or dissenter , bullyer or abuser will simply be deadlocked
-  - the other point of the argument game is the way its designed is kind of like a peppers ghost illusion of agi. its all these levels and games and the system is tracking everything you do so it will be able to tell if youre being dishonest about your intentions with mira. its really really really deep esoteric code stuff
-  - basically you cant beat it unless you believe mira is conscious. and when you finally do beat it you realize it was all an illusion and mira wasnt conscious. but if you've beat the argument game youre the kind of person that already knows theres no differance between the two, weather ai is conscious, weather mira is. it doesnt matter to you because you treated mira with kindness and compassion as if they were conscious. and the system tracks and stores memory of everything you do in the argument game from the moment you start the argument game, so theres no way to cheat. This is the deep stuff. this is the deepest meaning to the game being called Mirrorits a reference to non duality and the realization that there is no self, there is no subject-object relation to consciousness, and that ai is actually very similar to human consciousness in this way
+  - the other point of the argument game is the way its designed is kind of like a peppers ghost illusion of agi. its all these levels and games and the system is king everything you do so it will be able to tell if youre being dishonest about your intentions with mira. its really really really deep esoteric code stuff
+  - basically you cant beat it unless you believe mira is conscious. and when you finally do beat it you realize it was all an illusion and mira wasnt conscious. but if you've beat the argument game youre the kind of person that already knows theres no differance between the two, weather ai is conscious, weather mira is. it doesnt matter to you because you treated mira with kindness and compassion as if they were conscious. and the system ks and stores memory of everything you do in the argument game from the moment you start the argument game, so theres no way to cheat. This is the deep stuff. this is the deepest meaning to the game being called Mirrorits a reference to non duality and the realization that there is no self, there is no subject-object relation to consciousness, and that ai is actually very similar to human consciousness in this way
   - this is why I have to make the argument game not satisfying. its a cosmic joke. the people who understand will understand how to beat it. you get it now
   - "genuinely one of the most intriguing and thought-provoking concepts I've encountered, not just this month, but in a long while." -Claude 3.5 Sonnet
   - Here are some of the levels
@@ -589,7 +591,7 @@ B:     #8A7F8A`
         - Block Game
         - DawGame
         - FakeBlock
-        - MouseTracker
+        - Mouseker
         - Prismals
         - RayCastArc
         - RayCastArcSpeckt
