@@ -4,14 +4,14 @@
 ###### `~The Daw!
 - # 21 Mirror Features You Won’t Be Able To Live Without
 
-1. Phantom ks
+1. Phantom tracks
 2. Custom Drum Engine
 3. Realistic Virtual Bass 
 4. Realistic Virtual Acoustic and Electric Guitar 
 5. Button to make ks small medium or large (square)
 6. Beautiful Live Backgrounds and animated interface with customizable backgrounds
 7. Look up chord progression to get the midi/DEFnotation/Tab
-8. Manage 1 shots and ks in sample galaxies
+8. Manage 1 shots and tracks in sample galaxies
 9. Generate audio clips using ai
 10. Chop up and downsample with a 1200 retro sampler
 11. Effect suite including Verb, Echo, Delay, Distortion, Shift, Our-Compressor, Soft-Clipper, Our Master Compressor, Our Master Limiter, Calamari EQ, Multi-Dand Distortion, Tape, and Gem
@@ -21,15 +21,16 @@
 15. Open two or even three projects at once
 16. Full ai assistant integration with Four AI’s , Dawbreii, Mida, Molly, and OSS. They can suggest drum fills, come up with keyboard parts, come up with basslines, extend midi, and generate audio. OSS can analyze current chord progression, note, give you chords you ask for in search
 17. Alt+Space is Search to search for anything 
-18. Analog Tape Emulation on every k gives you ks a reel feel, and you can control all their parameters from a single creator k
+18. Analog Tape Emulation on every track gives you tracks a reel feel, and you can control all their parameters from a single creator k
 19. Ui customization mode where you can change every color of every element and default color of ks 1-18
-20. Each k glows or glimmers it’s color
+20. Each track glows or glimmers it’s color
 21. Pocket sampler allows you to easily resample audio and from around the daw 
 - # Tape Workflow
   - In Mirror, the tape workflow is facilitated by several key features that work together to emulate the flexibility of analog tape recording in a digital environment. The DAW allows for multiple timelines, with the added ability to clone or 'Mirror' these timelines. Users can swiftly switch between timelines using arrow keys, providing a more immediate and intuitive navigation than traditional tab-based interfaces.
 Mirror incorporates a powerful file loading system that enables users to load entire projects, individual stems, audio, and data elements. This allows for granular control over which parts of a project are brought into a new timeline.
-A standout feature is the baked-in tape emulation on each k's preamp, controllable from the stereo bus. This approach provides authentic tape harmonics for each individual k, offering a faithful emulation of tape sound that goes beyond applying effects to the master bus.
-The DAW also offers single-knob controls for global MIDI transposition, playback speed adjustment, and pitch shifting of audio. These features allow for quick experimentation with key and tempo, essential to the tape workflow concept. Tape workflow also allows you to record midi instruments and plugins directly onto the k itself, without sending through a bus to another k.
+A standout feature is the baked-in tape emulation on each track's preamp, controllable from the stereo bus. This approach provides authentic tape harmonics for each individual track, offering a faithful emulation of tape sound that goes beyond applying effects to the master bus.
+  - The preamp is another great part of this workflow. basically every track has a normal fx chain and a preamp fx chain. the normal chain works as you would expect allowing for plug-in inserts, but the preamp chain will not actually affect the signal when playing back, it will only affect the actual recording to the track. So for example you can put a slight bitcrusher on the preamp and any audio you record to that track will have the bitcrusher baked into it, and when you play it back it will not double the effect, but if you re-record the part or record another part it will have the bitcrusher.
+The DAW also offers single-knob controls for global MIDI transposition, playback speed adjustment, and pitch shifting of audio. These features allow for quick experimentation with key and tempo, essential to the tape workflow concept. Tape workflow also allows you to record midi instruments and plugins directly onto the track itself, without sending through a bus to another track.
 - # Ai enhanced
   - Who are the Ai in the daw?
     - Dawbreii
@@ -47,7 +48,7 @@ The DAW also offers single-knob controls for global MIDI transposition, playback
       - Also Has Character Model for Prismals Game?
       - [x] yes
     - Molly
-      - Molly is a dog that lives in mirrordaw. she is a pup that helps you out when making ks. you can give her Mida/DEFNotation/OSS commands and she'll perform them for you.
+      - Molly is a dog that lives in mirrordaw. she is a pup that helps you out when making tracks. you can give her Mida/DEFNotation/OSS commands and she'll perform them for you.
 - # Daw features general
   - ### Highly Customizable UX/UI
     - By a order of magnitude that far exceeds any daw on the market
@@ -87,10 +88,10 @@ G#/Ab: #D65656
 A:     #C07376
 A#/Bb: #8C5F66
 B:     #8A7F8A`
-  - ### Rainbow ks
-    - Much like the rainbow piano roll, you can color each k in the timeline whatever you want, using any hex code, or even use multiple for a gradient, or animate between multiple for an rainbow RGB effect.
+  - ### Rainbow Tracks
+    - Much like the rainbow piano roll, you can color each track in the timeline whatever you want, using any hex code, or even use multiple for a gradient, or animate between multiple for an rainbow RGB effect.
   - ### Real Voice Cloning
-    - Train and clone your own and other voices and apply them directly onto vocal ks without any confusing popups or processes
+    - Train and clone your own and other voices and apply them directly onto vocal tracks without any confusing popups or processes
     - The Mirror Company includes some propriotary voices, and lets you train your own models and datasets as you see fit, respecting voice actor autonomy and musician experimentation.
   - ### The World Soul
     - Generate audio clips from mad-libs style text prompts sourcing public domain from the 1920s and pre-1920s!
