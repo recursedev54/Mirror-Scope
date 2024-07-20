@@ -308,17 +308,33 @@ B:     #8A7F8A`
      - Cold-Water Coral Reefs
      - Kelp Forest
      - Seagrass meadows
+     - Bioluminescent Bay
+       - Glowing water, special aquatic life, bioluminescent crafting materials.
+     - Fjord
+       - Steep cliffs, deep water channels, potential for waterfalls and unique building challenges.
   - ## Coastal-Biomes
     - Salt Marshes
+    - Great Lakes Shoreline
+  - ## Intermediary-Biomes
+    - Coastal Forest
+    - Tidal Flats
+    - Coastal Dunes
   - ## Land-Biomes
-    - Field
-    - Countryside
+    - Piney Sandhills
+    - Agrarian Valley
+    - Rolling Hills
+    - Painted Cliffs
+    - Karst Landscape
+    - Singing Dunes
+    - Cambrian Jungle
+    - Petrified Forest
     - Geyser Basin
-      - Landscape: Characterized by numerous geothermal features including geysers, hot springs, mud pots, and fumaroles.
-      - Geology: Formed by volcanic and tectonic activity, typically in areas with thin or fractured Earth's crust.
-      - Water features: Contains various types of hot water features, ranging from violently erupting geysers to calm, colorful hot spring pools.
-      - Microbial life: Home to unique extremophile microorganisms that thrive in high-temperature, often acidic environments.
-      - Mineral deposits: Often displays colorful mineral formations and deposits around thermal features, created by dissolved minerals precipitating from the hot water.
+      - Characterized by numerous geothermal features including geysers, hot springs, mud pots, and fumaroles.
+      - Formed by volcanic and tectonic activity, typically in areas with thin or fractured Earth's crust.
+      - Contains various types of hot water features, ranging from violently erupting geysers to calm, colorful hot spring pools.
+      - Home to unique extremophile microorganisms that thrive in high-temperature, often acidic environments.
+      - Often displays colorful mineral formations and deposits around thermal features, created by dissolved minerals precipitating from the hot water.
+    - Prismatic Springs
     - Coniferous Forests
       - Trees: Dominated by cone-bearing trees (conifers) like pines, spruces, firs, and cedars.
       - Leaves: Have needle-like or scale-like leaves that typically remain green year-round.
@@ -336,9 +352,14 @@ B:     #8A7F8A`
     - Ice Cave
     - Volcanic Cave
     - Staligmite Cave
+    - Aquifer
+    - Crystal Cave
+    - Fungal Grotto
   - ## Space-Biomes
     - Nebula
     - Asteriod Field
+    - Gas Giant Atmosphere
+    - Comet Tail
 - # General Mechanics (Prismals)
    - ## Mining
       - Right click and hold to charge up your pickaxe axe or shovel swing, left click to release and break a block. some blocks made of harder materials take multiple swings to break. some valueable materials like ores have a risk of not dropping and being destroyed if you use a tool that is too powerful, or you charge up the tool too much and dont use enough finesse.
