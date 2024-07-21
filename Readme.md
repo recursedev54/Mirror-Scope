@@ -529,6 +529,7 @@ B:     #8A7F8A`
             - Harbor Seal
             - Sturgeon
             - Alligator Gar
+            - Sea Snake
           - ### Ancient Zoological Prismals
             - Plesiosaur
             - Kronosaur
